@@ -124,16 +124,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |1-5| Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts| |
 |1-6| Transfer Learning and Bias Correction with Pre-trained Audio Embeddings| |
 |1-7| Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music| |
-|1-8| Human-AI Music Creation: Understanding the Perceptions
-and Experiences of Music Creators for Ethical and Productive Collaboration| |
+|1-8| Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration| |
 |1-9| Impact of time and note duration tokenizations on deep learning symbolic music modeling| |
 |1-10| Musical Micro-Timing for Live Coding| |
 |1-11| A Few-shot Neural Approach for Layout Analysis of Music Score Image | |
 |1-12| TapTamDrum: A Dataset for Dualized Drum Patterns| |
-|1-13| Real-time Percussive Technique Recognition and Embedding
-Learning for the Acoustic Guitar| |
-|1-14| IteraTTA: An interface for exploring both text prompts and
-audio priors in generating music with text-to-audio models| |
+|1-13| Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar| |
+|1-14| IteraTTA: An interface for exploring both text prompts and audio priors in generating music with text-to-audio models| |
 |1-15| Similarity evaluation of violin directivity patterns for musical instrument retrieval| |
 |1-16| Polyrhythmic modelling of non-isochronous and microtiming patterns| |
 
