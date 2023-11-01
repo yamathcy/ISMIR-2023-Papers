@@ -98,8 +98,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 <!-- > :exclamation: Final paper links will be added post-conference. -->
 
-<details open>
-<summary>List of session<a id="sections"></a></summary>
+<!-- <details open> -->
+<!-- <summary>List of session<a id="sections"></a></summary> -->
 
 
 </details>
@@ -107,7 +107,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
-
 
 ### Session 1
 
