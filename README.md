@@ -28,8 +28,8 @@
 ISMIR 2023 Papers: A complete collection of influential and exciting research papers from the [*ISMIR 2023*](https://ismir2023.ismir.net/) conference. Explore the latest advances in Music information retrieval. Code included. :star:
 
 <p align="center">
-    <a href="https://interspeech2023.org/" target="_blank">
-        <img width="600" src="https://cdn.jsdelivr.net/gh/yamathcy/ISMIR-2023-Papers@main/images/Interspeech2023-Stacked-Colour_v2.png" alt="Interspeech 2023">
+    <a href="https://ismir2023.ismir.net/" target="_blank">
+        <img width="600" src="https://ismir2023.ismir.net/assets/img/logos/MILAN_complete_logo.png" alt="ISMIR 2023">
     </a>
 <p>
 
