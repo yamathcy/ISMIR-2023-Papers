@@ -73,8 +73,11 @@ ISMIR 2023 Papers: A complete collection of influential and exciting research pa
     <tr>
         <td>ICASSP</td>
         <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+    <tr>
         <td>INTERSPEECH</td>
         <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+
     </tr>
 </table>
 
