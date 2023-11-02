@@ -122,7 +122,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |1-7| Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music| [GitHub](https://github.com/duguay-michele/CoSoD) || 
 |1-8| Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration| [GitHub](https://github.com/michelenewman/ISMIR23_supplemental_material) || 
 |1-9| Impact of time and note duration tokenizations on deep learning symbolic music modeling| [GitHub](https://github.com/Natooz/music-modeling-time-duration) ||
-|1-10| Musical Micro-Timing for Live Coding| [GitHub](https://github.com/MaxTheComputerer/sonicpi-metre ||
+|1-10| Musical Micro-Timing for Live Coding| [GitHub](https://github.com/MaxTheComputerer/sonicpi-metre) ||
 |1-11| A Few-shot Neural Approach for Layout Analysis of Music Score Image | [GitHub](https://github.com/fjcastellanos/FewShotLayoutAnalysisMusic) ||
 |1-12| TapTamDrum: A Dataset for Dualized Drum Patterns| [GitHub](https://github.com/taptamdrum/dataset) ||
 |1-13| Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar| [Github](https://github.com/iamtheband/martelloni_et_al_ismir2023) ||
@@ -138,21 +138,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-|2-1| CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval| | |
-|2-2| GENDER-CODED SOUND: ANALYSING THE GENDERING OF MUSIC IN TOY COMMERCIALS VIA MULTI-TASK LEARNING | ||
-|2-3| A dataset and Baselines for Measuring and Predicting the Music Piece Memorability| ||
-| 2-4 | Efficient Notation Assembly in Optical Music Recognition |  |  |
-| 2-5 | White Box Search over Audio Synthesizer Parameters |  |  |
-| 2-6 | Decoding drums, instrumentals, vocals, and mixed sources in music using human brain activity with fMRI |  |  |
-| 2-7 | Dual Attention-based Multi-scale Feature Fusion Approach for Dynamic Music Emotion Recognition |  |  |
-| 2-8 | Automatic Piano Transcription with Hierarchical Frequency-Time Transformer |  |  |
-| 2-9 | High-Resolution Violin Transcription using Weak Labels |  |  |
-| 2-10 | Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls |  |  |
-| 2-11 | The Coordinated Corpus of Popular Musics (CoCoPops): A Meta-Dataset of Melodic and Harmonic Transcriptions |  |  |
-| 2-12 | Towards computational music analysis for music therapy |  |  |
-| 2-13 | Timbre Transfer using Image-to-Image Denoising Diffusion Implicit Models |  |  |
-| 2-14 | Correlation of EEG responses reflects structural similarity of choruses in popular music |  |  |
-| 2-15 | Chromatic Chords in Theory and Practice |  |  |
+|2-1| CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval| [Github Pages](https://microsoft.github.io/muzic/clamp/) [Github](https://github.com/microsoft/muzic/tree/main/clamp)| |
+|2-2| GENDER-CODED SOUND: ANALYSING THE GENDERING OF MUSIC IN TOY COMMERCIALS VIA MULTI-TASK LEARNING |[Github](https://github.com/marinelliluca/gender_coded_sound_ismir2023) ||
+|2-3| A dataset and Baselines for Measuring and Predicting the Music Piece Memorability| [Github](https://github.com/anusfoil/SymRep)||
+| 2-4 | Efficient Notation Assembly in Optical Music Recognition | - |  |
+| 2-5 | White Box Search over Audio Synthesizer Parameters | - |  |
+| 2-6 | Decoding drums, instrumentals, vocals, and mixed sources in music using human brain activity with fMRI | [Github](https://github.com/vkmcheung/neuromusic-decoding/) |  |
+| 2-7 | Dual Attention-based Multi-scale Feature Fusion Approach for Dynamic Music Emotion Recognition | [Dataset](https://ismir-2023.github.io/MER1101/) |  |
+| 2-8 | Automatic Piano Transcription with Hierarchical Frequency-Time Transformer | [Github](https://github.com/sony/hFT-Transformer) |  |
+| 2-9 | High-Resolution Violin Transcription using Weak Labels | [Github](https://github.com/MTG/violin-transcription/) |  |
+| 2-10 | Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls | [Demo](https://polyffusion.github.io/) [Github](https://github.com/aik2mlj/polyffusion) |  |
+| 2-11 | The Coordinated Corpus of Popular Musics (CoCoPops): A Meta-Dataset of Melodic and Harmonic Transcriptions | [Github](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops) |  |
+| 2-12 | Towards computational music analysis for music therapy | - |  |
+| 2-13 | Timbre Transfer using Image-to-Image Denoising Diffusion Implicit Models | [Github](https://github.com/lucacoma/DiffTransfer) [Demo](https://lucacoma.github.io/DiffTransfer/)|  |
+| 2-14 | Correlation of EEG responses reflects structural similarity of choruses in popular music | - |  |
+| 2-15 | Chromatic Chords in Theory and Practice | [Github](https://github.com/MarkGotham/When-in-Rome) [Book](https://viva.pressbooks.pub/openmusictheory/chapter/anthology-harmony/) |  |
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
