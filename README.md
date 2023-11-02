@@ -170,7 +170,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 3
 
-![Session Papers](https://img.shields.io/badge/Session%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF)
+![Session Papers](https://img.shields.io/badge/Session%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-8-1D7FBF)
 
 | **Title** | **Repo** | **Paper** |
 |-----------|:--------:|:---------:|
