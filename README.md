@@ -170,24 +170,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 3
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 3-1 | BPS-Motif: A Dataset for Repeated Pattern Discovery of Polyphonic Symbolic Music |  |  |
-| 3-2 | Weakly Supervised Multi-Pitch Estimation Using Cross-Version Alignment |  |  |
-| 3-3 | The Batik-plays-Mozart Corpus: Linking Performance to Score to Musicological Annotations |  |  |
-| 3-4 | Mono-to-stereo through parametric stereo generation |  |  |
-| 3-5 | From West to East: Who can understand the music of the others better? |  |  |
-| 3-6 | On the Performance of Optical Music Recognition in the Absence of Specific Training Data |  |  |
-| 3-7 | Composer’s Assistant: An Interactive Transformer for Multi-Track MIDI Infilling |  |  |
-| 3-8 | The FAV Corpus: An audio dataset of favorite pieces and excerpts, with formal analyses and music theory descriptors |  |  |
-| 3-9 | LyricWhiz: Robust Multilingual Lyrics Transcription by Whispering to ChatGPT |  |  |
-| 3-10 | Sounds out of place? Score independent detection of conspicuous mistake regions in MIDI piano performances |  |  |
-| 3-11 | VampNet: Music Generation via Masked Acoustic Token Modeling |  |  |
-| 3-12 | Expert and Novice Evaluations of Piano Performances: Criteria for Computer-Aided Feedback |  |  |
-| 3-13 | Contrastive Learning for Cross-modal Artist Retrieval |  |  |
-| 3-14 | Repetition-Structure Inference with Formal Prototypes |  |  |
-| 3-15 | Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors |  |  |
-| 3-16 | Text-to-lyrics generation with image-based semantics and reduced risk of plagiarism |  |  |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| BPS-Motif: A Dataset for Repeated Pattern Discovery of Polyphonic Symbolic Music |  |  |
+| Weakly Supervised Multi-Pitch Estimation using Cross-Version Alignment |  |  |
+| The Batik-Plays-Mozart Corpus: Linking Performance to Score to Musicological Annotations |  |  |
+| Mono-to-Stereo through Parametric Stereo Generation |  |  |
+| From West to East: Who Can Understand the Music of the Others Better? |  |  |
+| On the Performance of Optical Music Recognition in the Absence of Specific Training Data |  |  |
+| Composer's Assistant: An Interactive Transformer for Multi-Track MIDI Infilling |  |  |
+| The FAV Corpus: An Audio Dataset of Favorite Pieces and Excerpts, with Formal Analyses and Music Theory Descriptors |  |  |
+| LyricWhiz: Robust Multilingual Lyrics Transcription by Whispering to ChatGPT |  |  |
+| Sounds Out of Place? Score Independent Detection of Conspicuous Mistake Regions in MIDI Piano Performances |  |  |
+| VampNet: Music Generation via Masked Acoustic Token Modeling |  |  |
+| Expert and Novice Evaluations of Piano Performances: Criteria for Computer-Aided Feedback |  |  |
+| Contrastive Learning for Cross-Modal Artist Retrieval |  |  |
+| Repetition-Structure Inference with Formal Prototypes |  |  |
+| Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors |  |  |
+| Text-to-Lyrics Generation with Image-based Semantics and Reduced Risk of Plagiarism |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -195,23 +197,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 4
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 4-1 | LP-MusicCaps: LLM-Based Pseudo Music Captioning |  |  |
-| 4-2 | A Repetition-based Triplet Mining Approach for Music Segmentation |  |  |
-| 4-3 | Predicting Music Hierarchies with a Graph-Based Neural Decoder |  |  |
-| 4-4 | Stabilizing Training with Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation with Weakly Aligned Targets |  |  |
-| 4-5 | Finding Tori: Self-supervised Learning for Analyzing Korean Folk Song |  |  |
-| 4-6 | Singer Identity Representation Learning using Self-Supervised Techniques |  |  |
-| 4-7 | On the effectiveness of speech self-supervised learning for music |  |  |
-| 4-8 | Transformer-based beat tracking with low-resolution encoder and high-resolution decoder |  |  |
-| 4-9 | Adding Descriptors to Melodies Improves Pattern Matching: A Study on Slovenian Folk Songs |  |  |
-| 4-10 | How Control and Transparency for Users Could Improve Artist Fairness in Music Recommender Systems |  |  |
-| 4-11 | Towards a New Interface for Music Listening: A User Experience Study on YouTube |  |  |
-| 4-12 | FiloBass: A Dataset and Corpus Based Study of Jazz Basslines |  |  |
-| 4-13 | Comparing Texture in Piano Scores |  |  |
-| 4-14 | Introducing DiMCAT for processing and analyzing notated music on a very large scale |  |  |
-| 4-15 | Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription with Tokenized Outputs |  |  |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-15-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| LP-MusicCaps: LLM-based Pseudo Music Captioning |  |  |
+| A Repetition-based Triplet Mining Approach for Music Segmentation |  |  |
+| Predicting Music Hierarchies with a Graph-based Neural Decoder |  |  |
+| Stabilizing Training with Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation with Weakly Aligned Targets |  |  |
+| Finding Tori: Self-Supervised Learning for Analyzing Korean Folk Song |  |  |
+| Singer Identity Representation Learning using Self-Supervised Techniques |  |  |
+| On the Effectiveness of Speech Self-Supervised Learning for Music |  |  |
+| Transformer-based Beat Tracking with Low-Resolution Encoder and High-Resolution Decoder |  |  |
+| Adding Descriptors to Melodies Improves Pattern Matching: A Study on Slovenian Folk Songs |  |  |
+| How Control and Transparency for Users Could Improve Artist Fairness in Music Recommender Systems |  |  |
+| Towards a New Interface for Music Listening: A User Experience Study on YouTube |  |  |
+| FiloBass: A Dataset and Corpus based Study of Jazz Basslines |  |  |
+| Comparing Texture in Piano Scores |  |  |
+| Introducing DiMCAT for Processing and Analyzing Notated Music on a Very Large Scale |  |  |
+| Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription with Tokenized Outputs |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -219,24 +223,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 5
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 5-1 | PESTO: Pitch Estimation with Self-supervised Transposition-equivariant Objective |  |  |
-| 5-2 | The Games We Play: Exploring The Impact of ISMIR on Musicology |  |  |
-| 5-3 | Carnatic Singing Voice Separation Using Cold Diffusion on Training Data with Bleeding |  |  |
-| 5-4 | Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights from a User Survey |  |  |
-| 5-5 | Towards Building a Phylogeny of Gregorian Chant Melodies |  |  |
-| 5-6 | Audio Embeddings as Teachers for Music Classification |  |  |
-| 5-7 | ScorePerformer: Expressive Piano Performance Rendering with Fine-Grained Control |  |  |
-| 5-8 | Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features |  |  |
-| 5-9 | Semi-Automated Music Catalog Curation Using Audio and Metadata |  |  |
-| 5-10 | Crowd’s Performance on Temporal Activity Detection of Musical Instruments in Polyphonic Music |  |  |
-| 5-11 | MoisesDB: A Dataset For Source Separation Beyond 4 Stems |  |  |
-| 5-12 | Music as flow: a formal representation of hierarchical processes in music |  |  |
-| 5-13 | Online Symbolic Music Alignment with Offline Reinforcement Learning |  |  |
-| 5-14 | InverSinthII: Sound matching via self-supervised synthesizer-proxy and inference-time finetuning |  |  |
-| 5-15 | A Semi-Supervised Deep Learning Approach to Dataset Collection for Query-by-Humming Task |  |  |
-| 5-16 | Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction |  |  |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| PESTO: Pitch Estimation with Self-Supervised Transposition-Equivariant Objective |  |  |
+| The Games we Play: Exploring the Impact of ISMIR on Musicology |  |  |
+| Carnatic Singing Voice Separation using Cold Diffusion on Training Data with Bleeding |  |  |
+| Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights from a User Survey |  |  |
+| Towards Building a Phylogeny of Gregorian Chant Melodies |  |  |
+| Audio Embeddings as Teachers for Music Classification |  |  |
+| ScorePerformer: Expressive Piano Performance Rendering with Fine-Grained Control |  |  |
+| Roman Numeral Analysis with Graph Neural Networks: Onset-Wise Predictions from Note-Wise Features |  |  |
+| Semi-Automated Music Catalog Curation using Audio and Metadata |  |  |
+| Crowd's Performance on Temporal Activity Detection of Musical Instruments in Polyphonic Music |  |  |
+| MoisesDB: A Dataset for Source Separation Beyond 4 Stems |  |  |
+| Music as Flow: A Formal Representation of Hierarchical Processes in Music |  |  |
+| Online Symbolic Music Alignment with Offline Reinforcement Learning |  |  |
+| InverSinthII: Sound Matching via Self-Supervised Synthesizer-Proxy and Inference-Time Finetuning |  |  |
+| A Semi-Supervised Deep Learning Approach to Dataset Collection for Query-by-Humming Task |  |  |
+| Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
