@@ -241,23 +241,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 6
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 6-1 | Singing Voice Synthesis using Differentiable LPC and Glottalflow Inspired Wavetables | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yoyololicon.github.io/golf-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/yoyololicon/golf)](https://github.com/yoyololicon/golf) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17252-b31b1b.svg)](https://arxiv.org/abs/2306.17252) |
-| 6-2 | Harmonic Analysis with Neural Semi-CRF | :heavy_minus_sign: | :heavy_minus_sign: |
-| 6-3 | A Dataset and Baseline for Automated Assessment of Timbre Quality in Trumpet Sound | [![GitHub](https://img.shields.io/github/stars/PNinad/ISMIR2023)](https://github.com/PNinad/ISMIR2023) <br /> [![Dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.8132780.svg)](https://doi.org/10.5281/zenodo.8132780) | :heavy_minus_sign: |
-| 6-4 | Visual Overviews for Sheet Music Structure | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.06140-b31b1b.svg)](https://arxiv.org/abs/2308.06140) |
-| 6-5 | Passage Summarization with Recurrent Models for Audio – Sheet Music Retrieval | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.12111-b31b1b.svg)](https://arxiv.org/abs/2309.12111) |
-| 6-6 | Predicting Performance Difficulty from Piano Sheet Music Images | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.16287-b31b1b.svg)](https://arxiv.org/abs/2309.16287) |
-| 6-7 | Self-Refining of Pseudo Labels for Music Source Separation with Noisy Labeled Data | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.12576-b31b1b.svg)](https://arxiv.org/abs/2307.12576) |
-| 6-8 | Quantifying the Ease of Playing Song Chords on the Guitar | :heavy_minus_sign: | :heavy_minus_sign: |
-| 6-9 | FlexDTW: Dynamic Time Warping with Flexible Boundary Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
-| 6-10 | Modeling Bends in Popular Music Guitar Tablatures | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.12307-b31b1b.svg)](https://arxiv.org/abs/2308.12307) |
-| 6-11 | Self-Similarity-based and Novelty-based Loss for Music Structure Analysis | [![GitHub](https://img.shields.io/github/stars/geoffroypeeters/ssmnet_ISMIR2023)](https://github.com/geoffroypeeters/ssmnet_ISMIR2023) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02243-b31b1b.svg)](https://arxiv.org/abs/2309.02243) |
-| 6-12 | Modeling Harmonic Similarity for Jazz using Cooccurrence Vectors and the Membrane Area | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/90562/Bunks%20Modeling%20Harmonic%20Similarity%20for%20Jazz%20Using%20Co-occurrence%20Vectors%20and%20the%20Membrane%20Area%202023%20Accepted.pdf?sequence=2&isAllowed=n) |
-| 6-13 | SingStyle111: A Multilingual Singing Dataset with Style Transfer | :heavy_minus_sign: | :heavy_minus_sign: |
-| 6-14 | A Computational Evaluation Framework for Singable Lyric Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.13715-b31b1b.svg)](https://arxiv.org/abs/2308.13715) |
-| 6-15 | Chorus-Playlist: Exploring the Impact of Listening to Only Choruses in a Playlist | :heavy_minus_sign: | :heavy_minus_sign: |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-15-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-9-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| Singing Voice Synthesis using Differentiable LPC and Glottalflow Inspired Wavetables | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yoyololicon.github.io/golf-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/yoyololicon/golf)](https://github.com/yoyololicon/golf) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17252-b31b1b.svg)](https://arxiv.org/abs/2306.17252) |
+| Harmonic Analysis with Neural Semi-CRF | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Dataset and Baseline for Automated Assessment of Timbre Quality in Trumpet Sound | [![GitHub](https://img.shields.io/github/stars/PNinad/ISMIR2023)](https://github.com/PNinad/ISMIR2023) <br /> [![Dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.8132780.svg)](https://doi.org/10.5281/zenodo.8132780) | :heavy_minus_sign: |
+| Visual Overviews for Sheet Music Structure | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.06140-b31b1b.svg)](https://arxiv.org/abs/2308.06140) |
+| Passage Summarization with Recurrent Models for Audio – Sheet Music Retrieval | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.12111-b31b1b.svg)](https://arxiv.org/abs/2309.12111) |
+| Predicting Performance Difficulty from Piano Sheet Music Images | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.16287-b31b1b.svg)](https://arxiv.org/abs/2309.16287) |
+| Self-Refining of Pseudo Labels for Music Source Separation with Noisy Labeled Data | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.12576-b31b1b.svg)](https://arxiv.org/abs/2307.12576) |
+| Quantifying the Ease of Playing Song Chords on the Guitar | :heavy_minus_sign: | :heavy_minus_sign: |
+| FlexDTW: Dynamic Time Warping with Flexible Boundary Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
+| Modeling Bends in Popular Music Guitar Tablatures | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.12307-b31b1b.svg)](https://arxiv.org/abs/2308.12307) |
+| Self-Similarity-based and Novelty-based Loss for Music Structure Analysis | [![GitHub](https://img.shields.io/github/stars/geoffroypeeters/ssmnet_ISMIR2023)](https://github.com/geoffroypeeters/ssmnet_ISMIR2023) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02243-b31b1b.svg)](https://arxiv.org/abs/2309.02243) |
+| Modeling Harmonic Similarity for Jazz using Cooccurrence Vectors and the Membrane Area | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/90562/Bunks%20Modeling%20Harmonic%20Similarity%20for%20Jazz%20Using%20Co-occurrence%20Vectors%20and%20the%20Membrane%20Area%202023%20Accepted.pdf?sequence=2&isAllowed=n) |
+| SingStyle111: A Multilingual Singing Dataset with Style Transfer | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Computational Evaluation Framework for Singable Lyric Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.13715-b31b1b.svg)](https://arxiv.org/abs/2308.13715) |
+| Chorus-Playlist: Exploring the Impact of Listening to Only Choruses in a Playlist | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -265,18 +267,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 7
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 7-1 | Supporting Musicological Investigations with Information Retrieval Tools: An Iterative Approach to Data Collection | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://research.gold.ac.uk/id/eprint/34165/1/BitH_ISMIR_2023-camera-ready.pdf) |
-| 7-2 | Optimizing Feature Extraction for Symbolic Music | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://musif.didone.eu/) <br /> [![GitHub](https://img.shields.io/github/stars/DIDONEproject/music_symbolic_features)](https://github.com/DIDONEproject/music_symbolic_features) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05107-b31b1b.svg)](https://arxiv.org/abs/2307.05107) |
-| 7-3 | Exploring Sampling Techniques for Generating Melodies with a Transformer Language Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09454-b31b1b.svg)](https://arxiv.org/abs/2308.09454) |
-| 7-4 | Measuring the Eurovision Song Contest: A Living Dataset for Real-World MIR | :heavy_minus_sign: | :heavy_minus_sign: |
-| 7-5 | Efficient Supervised Training of Audio Transformers for Music Representation Learning | [![GitHub](https://img.shields.io/github/stars/palonso/MAEST)](https://github.com/palonso/MAEST) | [![arXiv](https://img.shields.io/badge/arXiv-2309.16418-b31b1b.svg)](https://arxiv.org/abs/2309.16418) |
-| 7-6 | A Cross-Version Approach to Audio Representation Learning for Orchestral Music | [![GitHub](https://img.shields.io/github/stars/groupmm/cross_version_learning)](https://github.com/groupmm/cross_version_learning) | :heavy_minus_sign: |
-| 7-7 | Music Source Separation with MLP Mixing of Time, Frequency, and Channel | :heavy_minus_sign: | :heavy_minus_sign: |
-| 7-8 | Symbolic Music Representations for Classification Tasks: A Systematic Evaluation | [![GitHub](https://img.shields.io/github/stars/anusfoil/SymRep)](https://github.com/anusfoil/SymRep) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02567-b31b1b.svg)](https://arxiv.org/abs/2309.02567) |
-| 7-9 | The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata | :heavy_minus_sign: | :heavy_minus_sign: |
-| 7-10 | Polar Manhattan Displacement: Measuring Tonal Distances between Chords based on Intervallic Content | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/89900/Pauwels%20Polar%20Manhattan%20Displacement%3a%20measuring%20tonal%20distances%20between%20chords%20based%20on%20intervallic%20content%202023%20Accepted.pdf?sequence=2&isAllowed=y) |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| Supporting Musicological Investigations with Information Retrieval Tools: An Iterative Approach to Data Collection | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://research.gold.ac.uk/id/eprint/34165/1/BitH_ISMIR_2023-camera-ready.pdf) |
+| Optimizing Feature Extraction for Symbolic Music | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://musif.didone.eu/) <br /> [![GitHub](https://img.shields.io/github/stars/DIDONEproject/music_symbolic_features)](https://github.com/DIDONEproject/music_symbolic_features) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05107-b31b1b.svg)](https://arxiv.org/abs/2307.05107) |
+| Exploring Sampling Techniques for Generating Melodies with a Transformer Language Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09454-b31b1b.svg)](https://arxiv.org/abs/2308.09454) |
+| Measuring the Eurovision Song Contest: A Living Dataset for Real-World MIR | :heavy_minus_sign: | :heavy_minus_sign: |
+| Efficient Supervised Training of Audio Transformers for Music Representation Learning | [![GitHub](https://img.shields.io/github/stars/palonso/MAEST)](https://github.com/palonso/MAEST) | [![arXiv](https://img.shields.io/badge/arXiv-2309.16418-b31b1b.svg)](https://arxiv.org/abs/2309.16418) |
+| A Cross-Version Approach to Audio Representation Learning for Orchestral Music | [![GitHub](https://img.shields.io/github/stars/groupmm/cross_version_learning)](https://github.com/groupmm/cross_version_learning) | :heavy_minus_sign: |
+| Music Source Separation with MLP Mixing of Time, Frequency, and Channel | :heavy_minus_sign: | :heavy_minus_sign: |
+| Symbolic Music Representations for Classification Tasks: A Systematic Evaluation | [![GitHub](https://img.shields.io/github/stars/anusfoil/SymRep)](https://github.com/anusfoil/SymRep) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02567-b31b1b.svg)](https://arxiv.org/abs/2309.02567) |
+| The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata | :heavy_minus_sign: | :heavy_minus_sign: |
+| Polar Manhattan Displacement: Measuring Tonal Distances between Chords based on Intervallic Content | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/89900/Pauwels%20Polar%20Manhattan%20Displacement%3a%20measuring%20tonal%20distances%20between%20chords%20based%20on%20intervallic%20content%202023%20Accepted.pdf?sequence=2&isAllowed=y) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
