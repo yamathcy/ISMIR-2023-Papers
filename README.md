@@ -227,22 +227,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** |
 |-----------|:--------:|:---------:|
-| PESTO: Pitch Estimation with Self-Supervised Transposition-Equivariant Objective |  |  |
-| The Games we Play: Exploring the Impact of ISMIR on Musicology |  |  |
-| Carnatic Singing Voice Separation using Cold Diffusion on Training Data with Bleeding |  |  |
-| Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights from a User Survey |  |  |
-| Towards Building a Phylogeny of Gregorian Chant Melodies |  |  |
-| Audio Embeddings as Teachers for Music Classification |  |  |
-| ScorePerformer: Expressive Piano Performance Rendering with Fine-Grained Control |  |  |
-| Roman Numeral Analysis with Graph Neural Networks: Onset-Wise Predictions from Note-Wise Features |  |  |
-| Semi-Automated Music Catalog Curation using Audio and Metadata |  |  |
-| Crowd's Performance on Temporal Activity Detection of Musical Instruments in Polyphonic Music |  |  |
-| MoisesDB: A Dataset for Source Separation Beyond 4 Stems |  |  |
-| Music as Flow: A Formal Representation of Hierarchical Processes in Music |  |  |
-| Online Symbolic Music Alignment with Offline Reinforcement Learning |  |  |
-| InverSinthII: Sound Matching via Self-Supervised Synthesizer-Proxy and Inference-Time Finetuning |  |  |
-| A Semi-Supervised Deep Learning Approach to Dataset Collection for Query-by-Humming Task |  |  |
-| Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction |  |  |
+| PESTO: Pitch Estimation with Self-Supervised Transposition-Equivariant Objective | [![GitHub](https://img.shields.io/github/stars/SonyCSLParis/pesto)](https://github.com/SonyCSLParis/pesto) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02265-b31b1b.svg)](https://arxiv.org/abs/2309.02265) |
+| The Games we Play: Exploring the Impact of ISMIR on Musicology | :heavy_minus_sign: | :heavy_minus_sign: |
+| Carnatic Singing Voice Separation using Cold Diffusion on Training Data with Bleeding | [![GitHub](https://img.shields.io/github/stars/MTG/carnatic-separation-ismir23)](https://github.com/MTG/carnatic-separation-ismir23) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://repositori.upf.edu/bitstream/handle/10230/58188/Plaja_ism_carn.pdf?sequence=1&isAllowed=y) |
+| Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights from a User Survey | :heavy_minus_sign: | :heavy_minus_sign: |
+| Towards Building a Phylogeny of Gregorian Chant Melodies | :heavy_minus_sign: | :heavy_minus_sign: |
+| Audio Embeddings as Teachers for Music Classification | [![GitHub](https://img.shields.io/github/stars/suncerock/EAsT-music-classification)](https://github.com/suncerock/EAsT-music-classification) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17424-b31b1b.svg)](https://arxiv.org/abs/2306.17424) |
+| ScorePerformer: Expressive Piano Performance Rendering with Fine-Grained Control | :heavy_minus_sign: | :heavy_minus_sign: |
+| Roman Numeral Analysis with Graph Neural Networks: Onset-Wise Predictions from Note-Wise Features | [![GitHub](https://img.shields.io/github/stars/manoskary/chordgnn)](https://github.com/manoskary/chordgnn) | [![arXiv](https://img.shields.io/badge/arXiv-2307.03544-b31b1b.svg)](https://arxiv.org/abs/2307.03544) |
+| Semi-Automated Music Catalog Curation using Audio and Metadata | :heavy_minus_sign: | :heavy_minus_sign: |
+| Crowd's Performance on Temporal Activity Detection of Musical Instruments in Polyphonic Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| MoisesDB: A Dataset for Source Separation Beyond 4 Stems | [![GitHub](https://img.shields.io/github/stars/moises-ai/moises-db)](https://github.com/moises-ai/moises-db) | [![arXiv](https://img.shields.io/badge/arXiv-2307.15913-b31b1b.svg)](https://arxiv.org/abs/2307.15913) |
+| Music as Flow: A Formal Representation of Hierarchical Processes in Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| Online Symbolic Music Alignment with Offline Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| InverSinthII: Sound Matching via Self-Supervised Synthesizer-Proxy and Inference-Time Finetuning | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Semi-Supervised Deep Learning Approach to Dataset Collection for Query-by-Humming Task | [![GitHub](https://img.shields.io/github/stars/amanteur/CHAD)](https://github.com/amanteur/CHAD) | :heavy_minus_sign: |
+| Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction | [![GitHub](https://img.shields.io/github/stars/SmoothKen/KKNet)](https://github.com/SmoothKen/KKNet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02723-b31b1b.svg)](https://arxiv.org/abs/2308.02723) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
