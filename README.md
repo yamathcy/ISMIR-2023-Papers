@@ -99,7 +99,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 <!-- > :exclamation: Final paper links will be added post-conference. -->
 
 <details open>
-<summary>List of session<a id="sections"></a></summary>
+<summary>List of sessions<a id="sections"></a></summary>
 
 - [Session 1](#session-1)
 - [Session 2](#session-2)
