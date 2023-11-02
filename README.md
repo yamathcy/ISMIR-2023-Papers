@@ -28,7 +28,7 @@ ISMIR 2023 Papers: A complete collection of influential and exciting research pa
 
 <p align="center">
     <a href="https://ismir2023.ismir.net/" target="_blank">
-        <img width="600" src="https://ismir2023.ismir.net/assets/img/logos/MILAN_complete_logo.png" alt="ISMIR 2023">
+        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ISMIR-2023-Papers@main/images/ISMIR2023-banner.jpg" alt="ISMIR 2023">
     </a>
 <p>
 
@@ -119,13 +119,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1-1 | Exploring the correspondence of melodic contour with gesture in raga alap singing | [Demo](https://dap-lab.github.io/audioGestureCorrespondence/) | |
-| 1-2 | TriAD: Capturing harmonics with 3D Convolutions| [GitHub](https://github.com/migperfer/TriAD-ISMIR2023) | |
-| 1-3 | Data Collection in Music Generation Training Sets: A Critical Analysis| [GitHub](https://github.com/Sma1033/amgdatasetethics) | |
-| 1-4 | A Review of Validity and its Relationship to Music Information Research| [GitHub](https://github.com/boblsturm/mirvaliditytutorial) | |
-| 1-5 | Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts| [GitHub](https://github.com/GowriprasadMysore/Segmentation_Taniavartanam) | |
-| 1-6 | Transfer Learning and Bias Correction with Pre-trained Audio Embeddings| [GitHub](https://github.com/changhongw/audio-embedding-bias) | |
-| 1-7 | Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music| [GitHub](https://github.com/duguay-michele/CoSoD) | |
+| 1-1 | Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://dap-lab.github.io/audioGestureCorrespondence/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://dap-lab.github.io/audioGestureCorrespondence/pdf/paper.pdf) |
+| 1-2 | TriAD: Capturing Harmonics with 3D Convolutions | [![GitHub](https://img.shields.io/github/stars/migperfer/TriAD-ISMIR2023)](https://github.com/migperfer/TriAD-ISMIR2023) | :heavy_minus_sign: |
+| 1-3 | Data Collection in Music Generation Training Sets: A Critical Analysis | [![GitHub](https://img.shields.io/github/stars/Sma1033/amgdatasetethics)](https://github.com/Sma1033/amgdatasetethics) | :heavy_minus_sign: |
+| 1-4 | A Review of Validity and its Relationship to Music Information Research | [![GitHub](https://img.shields.io/github/stars/boblsturm/mirvaliditytutorial)](https://github.com/boblsturm/mirvaliditytutorial) | [![arXiv](https://img.shields.io/badge/arXiv-2301.01578-b31b1b.svg)](https://arxiv.org/abs/2301.01578) |
+| 1-5 | Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1-6 | Transfer Learning and Bias Correction with Pre-Trained Audio Embeddings | [![GitHub](https://img.shields.io/github/stars/changhongw/audio-embedding-bias)](https://github.com/changhongw/audio-embedding-bias) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10834-b31b1b.svg)](https://arxiv.org/abs/2307.10834) |
+| 1-7 | Collaborative Song Dataset (CoSoD): An Annotated Dataset of Multi-Artist Collaborations in Popular Music | [![GitHub](https://img.shields.io/github/stars/duguay-michele/CoSoD)](https://github.com/duguay-michele/CoSoD) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05588-b31b1b.svg)](https://arxiv.org/abs/2307.05588) |
 | 1-8 | Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration| [GitHub](https://github.com/michelenewman/ISMIR23_supplemental_material) | |
 | 1-9 | Impact of time and note duration tokenizations on deep learning symbolic music modeling| [GitHub](https://github.com/Natooz/music-modeling-time-duration) ||
 | 1-10 | Musical Micro-Timing for Live Coding| [GitHub](https://github.com/MaxTheComputerer/sonicpi-metre) ||
