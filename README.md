@@ -113,22 +113,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-|1-1| Exploring the correspondence of melodic contour with gesture in raga alap singing | https://dap-lab.github.io/audioGestureCorrespondence/ | |
-|1-2| TriAD: Capturing harmonics with 3D Convolutions| https://github.com/migperfer/TriAD-ISMIR2023 | | 
-|1-3| Data Collection in Music Generation Training Sets: A Critical Analysis| https://github.com/Sma1033/amgdatasetethics | |
-|1-4| A Review of Validity and its Relationship to Music Information Research| https://github.com/boblsturm/mirvaliditytutorial | |
-|1-5| Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts| https://github.com/GowriprasadMysore/Segmentation_Taniavartanam | |
-|1-6| Transfer Learning and Bias Correction with Pre-trained Audio Embeddings| https://github.com/changhongw/audio-embedding-bias | |
-|1-7| Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music| https://github.com/duguay-michele/CoSoD || 
-|1-8| Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration| https://github.com/michelenewman/ISMIR23_supplemental_material || 
-|1-9| Impact of time and note duration tokenizations on deep learning symbolic music modeling| https://github.com/Natooz/music-modeling-time-duration ||
-|1-10| Musical Micro-Timing for Live Coding| https://github.com/MaxTheComputerer/sonicpi-metre ||
-|1-11| A Few-shot Neural Approach for Layout Analysis of Music Score Image | https://github.com/fjcastellanos/FewShotLayoutAnalysisMusic ||
-|1-12| TapTamDrum: A Dataset for Dualized Drum Patterns| https://github.com/taptamdrum/dataset ||
-|1-13| Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar|  https://github.com/iamtheband/martelloni_et_al_ismir2023 ||
-|1-14| IteraTTA: An interface for exploring both text prompts and audio priors in generating music with text-to-audio models| https://iteratta.duckdns.org/ ||
-|1-15| Similarity evaluation of violin directivity patterns for musical instrument retrieval| ||
-|1-16| Polyrhythmic modelling of non-isochronous and microtiming patterns| ||
+|1-1| Exploring the correspondence of melodic contour with gesture in raga alap singing | ![Demo](https://dap-lab.github.io/audioGestureCorrespondence/ | |
+|1-2| TriAD: Capturing harmonics with 3D Convolutions| ![GitHub](https://github.com/migperfer/TriAD-ISMIR2023) | | 
+|1-3| Data Collection in Music Generation Training Sets: A Critical Analysis| ![GitHub](https://github.com/Sma1033/amgdatasetethics) | |
+|1-4| A Review of Validity and its Relationship to Music Information Research| ![GitHub](https://github.com/boblsturm/mirvaliditytutorial) | |
+|1-5| Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts| ![GitHub](https://github.com/GowriprasadMysore/Segmentation_Taniavartanam) | |
+|1-6| Transfer Learning and Bias Correction with Pre-trained Audio Embeddings| ![GitHub](https://github.com/changhongw/audio-embedding-bias) | |
+|1-7| Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music| ![GitHub](https://github.com/duguay-michele/CoSoD) || 
+|1-8| Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration| ![GitHub](https://github.com/michelenewman/ISMIR23_supplemental_material) || 
+|1-9| Impact of time and note duration tokenizations on deep learning symbolic music modeling| ![GitHub](https://github.com/Natooz/music-modeling-time-duration) ||
+|1-10| Musical Micro-Timing for Live Coding| ![GitHub](https://github.com/MaxTheComputerer/sonicpi-metre ||
+|1-11| A Few-shot Neural Approach for Layout Analysis of Music Score Image | ![GitHub](https://github.com/fjcastellanos/FewShotLayoutAnalysisMusic) ||
+|1-12| TapTamDrum: A Dataset for Dualized Drum Patterns| ![GitHub](https://github.com/taptamdrum/dataset) ||
+|1-13| Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar| ![Github](https://github.com/iamtheband/martelloni_et_al_ismir2023) ||
+|1-14| IteraTTA: An interface for exploring both text prompts and audio priors in generating music with text-to-audio models| ![Demo](https://iteratta.duckdns.org/) ||
+|1-15| Similarity evaluation of violin directivity patterns for musical instrument retrieval| - ||
+|1-16| Polyrhythmic modelling of non-isochronous and microtiming patterns|-||
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
