@@ -111,30 +111,32 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 </details>
 
-<a href="#sections">
+<!-- <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
+</a> -->
 
 ### Session 1
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 1-1 | Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://dap-lab.github.io/audioGestureCorrespondence/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://dap-lab.github.io/audioGestureCorrespondence/pdf/paper.pdf) |
-| 1-2 | TriAD: Capturing Harmonics with 3D Convolutions | [![GitHub](https://img.shields.io/github/stars/migperfer/TriAD-ISMIR2023)](https://github.com/migperfer/TriAD-ISMIR2023) | :heavy_minus_sign: |
-| 1-3 | Data Collection in Music Generation Training Sets: A Critical Analysis | [![GitHub](https://img.shields.io/github/stars/Sma1033/amgdatasetethics)](https://github.com/Sma1033/amgdatasetethics) | :heavy_minus_sign: |
-| 1-4 | A Review of Validity and its Relationship to Music Information Research | [![GitHub](https://img.shields.io/github/stars/boblsturm/mirvaliditytutorial)](https://github.com/boblsturm/mirvaliditytutorial) | [![arXiv](https://img.shields.io/badge/arXiv-2301.01578-b31b1b.svg)](https://arxiv.org/abs/2301.01578) |
-| 1-5 | Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1-6 | Transfer Learning and Bias Correction with Pre-Trained Audio Embeddings | [![GitHub](https://img.shields.io/github/stars/changhongw/audio-embedding-bias)](https://github.com/changhongw/audio-embedding-bias) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10834-b31b1b.svg)](https://arxiv.org/abs/2307.10834) |
-| 1-7 | Collaborative Song Dataset (CoSoD): An Annotated Dataset of Multi-Artist Collaborations in Popular Music | [![GitHub](https://img.shields.io/github/stars/duguay-michele/CoSoD)](https://github.com/duguay-michele/CoSoD) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05588-b31b1b.svg)](https://arxiv.org/abs/2307.05588) |
-| 1-8 | Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration| [GitHub](https://github.com/michelenewman/ISMIR23_supplemental_material) | |
-| 1-9 | Impact of time and note duration tokenizations on deep learning symbolic music modeling| [GitHub](https://github.com/Natooz/music-modeling-time-duration) ||
-| 1-10 | Musical Micro-Timing for Live Coding| [GitHub](https://github.com/MaxTheComputerer/sonicpi-metre) ||
-| 1-11 | A Few-shot Neural Approach for Layout Analysis of Music Score Image | [GitHub](https://github.com/fjcastellanos/FewShotLayoutAnalysisMusic) ||
-| 1-12 | TapTamDrum: A Dataset for Dualized Drum Patterns| [GitHub](https://github.com/taptamdrum/dataset) ||
-| 1-13 | Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar| [Github](https://github.com/iamtheband/martelloni_et_al_ismir2023) ||
-| 1-14 | IteraTTA: An interface for exploring both text prompts and audio priors in generating music with text-to-audio models| [Demo](https://iteratta.duckdns.org/) ||
-| 1-15 | Similarity evaluation of violin directivity patterns for musical instrument retrieval| - ||
-| 1-16 | Polyrhythmic modelling of non-isochronous and microtiming patterns|-||
+![Session Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://dap-lab.github.io/audioGestureCorrespondence/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://dap-lab.github.io/audioGestureCorrespondence/pdf/paper.pdf) |
+| TriAD: Capturing Harmonics with 3D Convolutions | [![GitHub](https://img.shields.io/github/stars/migperfer/TriAD-ISMIR2023)](https://github.com/migperfer/TriAD-ISMIR2023) | :heavy_minus_sign: |
+| Data Collection in Music Generation Training Sets: A Critical Analysis | [![GitHub](https://img.shields.io/github/stars/Sma1033/amgdatasetethics)](https://github.com/Sma1033/amgdatasetethics) | :heavy_minus_sign: |
+| A Review of Validity and its Relationship to Music Information Research | [![GitHub](https://img.shields.io/github/stars/boblsturm/mirvaliditytutorial)](https://github.com/boblsturm/mirvaliditytutorial) | [![arXiv](https://img.shields.io/badge/arXiv-2301.01578-b31b1b.svg)](https://arxiv.org/abs/2301.01578) |
+| Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts | :heavy_minus_sign: | :heavy_minus_sign: |
+| Transfer Learning and Bias Correction with Pre-Trained Audio Embeddings | [![GitHub](https://img.shields.io/github/stars/changhongw/audio-embedding-bias)](https://github.com/changhongw/audio-embedding-bias) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10834-b31b1b.svg)](https://arxiv.org/abs/2307.10834) |
+| Collaborative Song Dataset (CoSoD): An Annotated Dataset of Multi-Artist Collaborations in Popular Music | [![GitHub](https://img.shields.io/github/stars/duguay-michele/CoSoD)](https://github.com/duguay-michele/CoSoD) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05588-b31b1b.svg)](https://arxiv.org/abs/2307.05588) |
+| Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration | [![GitHub](https://img.shields.io/github/stars/michelenewman/ISMIR23_supplemental_material)](https://github.com/michelenewman/ISMIR23_supplemental_material) | :heavy_minus_sign: |
+| Impact of Time and Note Duration Tokenizations on Deep Learning Symbolic Music Modeling| [![GitHub](https://img.shields.io/github/stars/Natooz/music-modeling-time-duration)](https://github.com/Natooz/music-modeling-time-duration) | [![arXiv](https://img.shields.io/badge/arXiv-2310.08497-b31b1b.svg)](https://arxiv.org/abs/2310.08497) |
+| Musical Micro-Timing for Live Coding | [![GitHub](https://img.shields.io/github/stars/MaxTheComputerer/sonicpi-metre)](https://github.com/MaxTheComputerer/sonicpi-metre) | :heavy_minus_sign: |
+| A Few-Shot Neural Approach for Layout Analysis of Music Score Image | [![GitHub](https://img.shields.io/github/stars/fjcastellanos/FewShotLayoutAnalysisMusic)](https://github.com/fjcastellanos/FewShotLayoutAnalysisMusic) | :heavy_minus_sign: |
+| TapTamDrum: A Dataset for Dualized Drum Patterns | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://taptamdrum.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/taptamdrum/dataset)](https://github.com/taptamdrum/dataset) | :heavy_minus_sign: |
+| Real-Time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar | [![GitHub](https://img.shields.io/github/stars/iamtheband/martelloni_et_al_ismir2023)](https://github.com/iamtheband/martelloni_et_al_ismir2023) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07426-b31b1b.svg)](https://arxiv.org/abs/2307.07426) |
+| IteraTTA: An Interface for Exploring both Text Prompts and Audio Priors in Generating Music with Text-to-Audio Models | [![Demo](https://img.shields.io/badge/Demo-IteraTTA-FFD21F.svg)](https://iteratta.duckdns.org/) | [![arXiv](https://img.shields.io/badge/arXiv-2307.13005-b31b1b.svg)](https://arxiv.org/abs/2307.13005) |
+| Similarity Evaluation of Violin Directivity Patterns for Musical Instrument Retrieval | :heavy_minus_sign: | :heavy_minus_sign: |
+| Polyrhythmic Modelling of Non-Isochronous and Microtiming Patterns | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
