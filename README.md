@@ -15,8 +15,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/yamathcy/ISMIR-2023-Papers)
 ![GitHub forks](https://img.shields.io/github/forks/yamathcy/ISMIR-2023-Papers)
 ![GitHub Repo stars](https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FINTERSPEECH-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
-
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyamathcy%2FISMIR-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
 <div style="float:left;">
   <img src="https://geps.dev/progress/100?successColor=006600" />
@@ -61,22 +60,22 @@ ISMIR 2023 Papers: A complete collection of influential and exciting research pa
     </tr>
     <tr>
         <td>CVPR</td>
-        <td><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
         <td>ICCV</td>
-        <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><i>Speech (SP)</i></td>
+      <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
     </tr>
 </table>
 
@@ -102,7 +101,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 <!-- <details open> -->
 <!-- <summary>List of session<a id="sections"></a></summary> -->
 
-
 </details>
 
 <a href="#sections">
@@ -113,22 +111,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-|1-1| Exploring the correspondence of melodic contour with gesture in raga alap singing | [Demo](https://dap-lab.github.io/audioGestureCorrespondence/) | |
-|1-2| TriAD: Capturing harmonics with 3D Convolutions| [GitHub](https://github.com/migperfer/TriAD-ISMIR2023) | | 
-|1-3| Data Collection in Music Generation Training Sets: A Critical Analysis| [GitHub](https://github.com/Sma1033/amgdatasetethics) | |
-|1-4| A Review of Validity and its Relationship to Music Information Research| [GitHub](https://github.com/boblsturm/mirvaliditytutorial) | |
-|1-5| Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts| [GitHub](https://github.com/GowriprasadMysore/Segmentation_Taniavartanam) | |
-|1-6| Transfer Learning and Bias Correction with Pre-trained Audio Embeddings| [GitHub](https://github.com/changhongw/audio-embedding-bias) | |
-|1-7| Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music| [GitHub](https://github.com/duguay-michele/CoSoD) || 
-|1-8| Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration| [GitHub](https://github.com/michelenewman/ISMIR23_supplemental_material) || 
-|1-9| Impact of time and note duration tokenizations on deep learning symbolic music modeling| [GitHub](https://github.com/Natooz/music-modeling-time-duration) ||
-|1-10| Musical Micro-Timing for Live Coding| [GitHub](https://github.com/MaxTheComputerer/sonicpi-metre) ||
-|1-11| A Few-shot Neural Approach for Layout Analysis of Music Score Image | [GitHub](https://github.com/fjcastellanos/FewShotLayoutAnalysisMusic) ||
-|1-12| TapTamDrum: A Dataset for Dualized Drum Patterns| [GitHub](https://github.com/taptamdrum/dataset) ||
-|1-13| Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar| [Github](https://github.com/iamtheband/martelloni_et_al_ismir2023) ||
-|1-14| IteraTTA: An interface for exploring both text prompts and audio priors in generating music with text-to-audio models| [Demo](https://iteratta.duckdns.org/) ||
-|1-15| Similarity evaluation of violin directivity patterns for musical instrument retrieval| - ||
-|1-16| Polyrhythmic modelling of non-isochronous and microtiming patterns|-||
+| 1-1 | Exploring the correspondence of melodic contour with gesture in raga alap singing | [Demo](https://dap-lab.github.io/audioGestureCorrespondence/) | |
+| 1-2 | TriAD: Capturing harmonics with 3D Convolutions| [GitHub](https://github.com/migperfer/TriAD-ISMIR2023) | |
+| 1-3 | Data Collection in Music Generation Training Sets: A Critical Analysis| [GitHub](https://github.com/Sma1033/amgdatasetethics) | |
+| 1-4 | A Review of Validity and its Relationship to Music Information Research| [GitHub](https://github.com/boblsturm/mirvaliditytutorial) | |
+| 1-5 | Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts| [GitHub](https://github.com/GowriprasadMysore/Segmentation_Taniavartanam) | |
+| 1-6 | Transfer Learning and Bias Correction with Pre-trained Audio Embeddings| [GitHub](https://github.com/changhongw/audio-embedding-bias) | |
+| 1-7 | Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music| [GitHub](https://github.com/duguay-michele/CoSoD) | |
+| 1-8 | Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration| [GitHub](https://github.com/michelenewman/ISMIR23_supplemental_material) | |
+| 1-9 | Impact of time and note duration tokenizations on deep learning symbolic music modeling| [GitHub](https://github.com/Natooz/music-modeling-time-duration) ||
+| 1-10 | Musical Micro-Timing for Live Coding| [GitHub](https://github.com/MaxTheComputerer/sonicpi-metre) ||
+| 1-11 | A Few-shot Neural Approach for Layout Analysis of Music Score Image | [GitHub](https://github.com/fjcastellanos/FewShotLayoutAnalysisMusic) ||
+| 1-12 | TapTamDrum: A Dataset for Dualized Drum Patterns| [GitHub](https://github.com/taptamdrum/dataset) ||
+| 1-13 | Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar| [Github](https://github.com/iamtheband/martelloni_et_al_ismir2023) ||
+| 1-14 | IteraTTA: An interface for exploring both text prompts and audio priors in generating music with text-to-audio models| [Demo](https://iteratta.duckdns.org/) ||
+| 1-15 | Similarity evaluation of violin directivity patterns for musical instrument retrieval| - ||
+| 1-16 | Polyrhythmic modelling of non-isochronous and microtiming patterns|-||
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -178,11 +176,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3-15 | Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors |  |  |
 | 3-16 | Text-to-lyrics generation with image-based semantics and reduced risk of plagiarism |  |  |
 
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
-
 
 ### Session 4
 
@@ -209,6 +205,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </a>
 
 ### Session 5
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 5-1 | PESTO: Pitch Estimation with Self-supervised Transposition-equivariant Objective |  |  |
@@ -260,22 +257,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 7-1 | Supporting musicological investigations with information retrieval tools: an iterative approach to data collection |  |  |
-| 7-2 | Optimizing Feature Extraction for Symbolic Music |  |  |
-| 7-3 | Exploring Sampling Techniques for Generating Melodies with a Transformer Language Model |  |  |
-| 7-4 | Measuring the Eurovision Song Contest: A Living Dataset for Real-World MIR |  |  |
-| 7-5 | Efficient Supervised Training of Audio Transformers for Music Representation Learning |  |  |
-| 7-6 | A Cross-Version Approach to Audio Representation Learning for Orchestral Music |  |  |
-| 7-7 | Music source separation with MLP mixing of time, frequency, and channel |  |  |
-| 7-8 | Symbolic Music Representations for Classification Tasks: A Systematic Evaluation |  |  |
-| 7-9 | The Music Meta Ontology: a flexible semantic model for the interoperability of music metadata |  |  |
-| 7-10 | Polar Manhattan Displacement: measuring tonal distances between chords based on intervallic content |  |  |
+| 7-1 | Supporting Musicological Investigations with Information Retrieval Tools: An Iterative Approach to Data Collection | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://research.gold.ac.uk/id/eprint/34165/1/BitH_ISMIR_2023-camera-ready.pdf) |
+| 7-2 | Optimizing Feature Extraction for Symbolic Music | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://musif.didone.eu/) <br /> [![GitHub](https://img.shields.io/github/stars/DIDONEproject/music_symbolic_features)](https://github.com/DIDONEproject/music_symbolic_features) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05107-b31b1b.svg)](https://arxiv.org/abs/2307.05107) |
+| 7-3 | Exploring Sampling Techniques for Generating Melodies with a Transformer Language Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09454-b31b1b.svg)](https://arxiv.org/abs/2308.09454) |
+| 7-4 | Measuring the Eurovision Song Contest: A Living Dataset for Real-World MIR | :heavy_minus_sign: | :heavy_minus_sign: |
+| 7-5 | Efficient Supervised Training of Audio Transformers for Music Representation Learning | [![GitHub](https://img.shields.io/github/stars/palonso/MAEST)](https://github.com/palonso/MAEST) | [![arXiv](https://img.shields.io/badge/arXiv-2309.16418-b31b1b.svg)](https://arxiv.org/abs/2309.16418) |
+| 7-6 | A Cross-Version Approach to Audio Representation Learning for Orchestral Music | [![GitHub](https://img.shields.io/github/stars/groupmm/cross_version_learning)](https://github.com/groupmm/cross_version_learning) | :heavy_minus_sign: |
+| 7-7 | Music Source Separation with MLP Mixing of Time, Frequency, and Channel | :heavy_minus_sign: | :heavy_minus_sign: |
+| 7-8 | Symbolic Music Representations for Classification Tasks: A Systematic Evaluation | [![GitHub](https://img.shields.io/github/stars/anusfoil/SymRep)](https://github.com/anusfoil/SymRep) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02567-b31b1b.svg)](https://arxiv.org/abs/2309.02567) |
+| 7-9 | The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata | :heavy_minus_sign: | :heavy_minus_sign: |
+| 7-10 | Polar Manhattan Displacement: Measuring Tonal Distances between Chords based on Intervallic Content | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/89900/Pauwels%20Polar%20Manhattan%20Displacement%3a%20measuring%20tonal%20distances%20between%20chords%20based%20on%20intervallic%20content%202023%20Accepted.pdf?sequence=2&isAllowed=y) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
 ### Late-Breaking Demo
+
 WIP
 
 ---
