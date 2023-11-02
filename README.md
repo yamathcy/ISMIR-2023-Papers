@@ -241,21 +241,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 6-1 | Singing voice synthesis using differentiable LPC and glottalflow inspired wavetables |  |  |
-| 6-2 | Harmonic Analysis with Neural Semi-CRF |  |  |
-| 6-3 | A Dataset and Baseline for Automated Assessment of Timbre Quality in Trumpet Sound |  |  |
-| 6-4 | Visual Overviews for Sheet Music Structure |  |  |
-| 6-5 | Passage Summarization with recurrent models for Audio – Sheet Music Retrieval |  |  |
-| 6-6 | Predicting performance difficulty from piano sheet music images |  |  |
-| 6-7 | Self-Refining of Pseudo Labels for Music Source Separation with Noisy Labeled Data |  |  |
-| 6-8 | Quantifying the Ease of Playing Song Chords on the Guitar |  |  |
-| 6-9 | FlexDTW: Dynamic Time Warping With Flexible Boundary Conditions |  |  |
-| 6-10 | Modeling Bends in Popular Music Guitar Tablatures |  |  |
-| 6-11 | Self-Similarity-Based and Novelty-based loss for music structure analysis |  |  |
-| 6-12 | Modeling Harmonic Similarity for Jazz Using Cooccurrence Vectors and the Membrane Area |  |  |
-| 6-13 | SingStyle111: A Multilingual Singing Dataset With Style Transfer |  |  |
-| 6-14 | A Computational Evaluation Framework for Singable Lyric Translation |  |  |
-| 6-15 | Chorus-Playlist: Exploring the Impact of Listening to Only Choruses in a Playlist |  |  |
+| 6-1 | Singing Voice Synthesis using Differentiable LPC and Glottalflow Inspired Wavetables | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yoyololicon.github.io/golf-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/yoyololicon/golf)](https://github.com/yoyololicon/golf) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17252-b31b1b.svg)](https://arxiv.org/abs/2306.17252) |
+| 6-2 | Harmonic Analysis with Neural Semi-CRF | :heavy_minus_sign: | :heavy_minus_sign: |
+| 6-3 | A Dataset and Baseline for Automated Assessment of Timbre Quality in Trumpet Sound | [![GitHub](https://img.shields.io/github/stars/PNinad/ISMIR2023)](https://github.com/PNinad/ISMIR2023) <br /> [![Dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.8132780.svg)](https://doi.org/10.5281/zenodo.8132780) | :heavy_minus_sign: |
+| 6-4 | Visual Overviews for Sheet Music Structure | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.06140-b31b1b.svg)](https://arxiv.org/abs/2308.06140) |
+| 6-5 | Passage Summarization with Recurrent Models for Audio – Sheet Music Retrieval | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.12111-b31b1b.svg)](https://arxiv.org/abs/2309.12111) |
+| 6-6 | Predicting Performance Difficulty from Piano Sheet Music Images | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.16287-b31b1b.svg)](https://arxiv.org/abs/2309.16287) |
+| 6-7 | Self-Refining of Pseudo Labels for Music Source Separation with Noisy Labeled Data | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.12576-b31b1b.svg)](https://arxiv.org/abs/2307.12576) |
+| 6-8 | Quantifying the Ease of Playing Song Chords on the Guitar | :heavy_minus_sign: | :heavy_minus_sign: |
+| 6-9 | FlexDTW: Dynamic Time Warping with Flexible Boundary Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 6-10 | Modeling Bends in Popular Music Guitar Tablatures | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.12307-b31b1b.svg)](https://arxiv.org/abs/2308.12307) |
+| 6-11 | Self-Similarity-based and Novelty-based Loss for Music Structure Analysis | [![GitHub](https://img.shields.io/github/stars/geoffroypeeters/ssmnet_ISMIR2023)](https://github.com/geoffroypeeters/ssmnet_ISMIR2023) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02243-b31b1b.svg)](https://arxiv.org/abs/2309.02243) |
+| 6-12 | Modeling Harmonic Similarity for Jazz using Cooccurrence Vectors and the Membrane Area | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/90562/Bunks%20Modeling%20Harmonic%20Similarity%20for%20Jazz%20Using%20Co-occurrence%20Vectors%20and%20the%20Membrane%20Area%202023%20Accepted.pdf?sequence=2&isAllowed=n) |
+| 6-13 | SingStyle111: A Multilingual Singing Dataset with Style Transfer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 6-14 | A Computational Evaluation Framework for Singable Lyric Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.13715-b31b1b.svg)](https://arxiv.org/abs/2308.13715) |
+| 6-15 | Chorus-Playlist: Exploring the Impact of Listening to Only Choruses in a Playlist | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
