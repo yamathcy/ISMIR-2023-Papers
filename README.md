@@ -98,8 +98,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 <!-- > :exclamation: Final paper links will be added post-conference. -->
 
-<!-- <details open> -->
-<!-- <summary>List of session<a id="sections"></a></summary> -->
+<details open> -->
+<summary>List of session<a id="sections"></a></summary>
+
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
+- [Session 4](#session-4)
+- [Session 5](#session-5)
+- [Session 6](#session-6)
+- [Session 7](#session-7)
 
 </details>
 
@@ -274,7 +282,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Late-Breaking Demo
 
-WIP
+> Will soon be added
 
 ---
 
