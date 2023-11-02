@@ -174,22 +174,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** |
 |-----------|:--------:|:---------:|
-| BPS-Motif: A Dataset for Repeated Pattern Discovery of Polyphonic Symbolic Music |  |  |
-| Weakly Supervised Multi-Pitch Estimation using Cross-Version Alignment |  |  |
-| The Batik-Plays-Mozart Corpus: Linking Performance to Score to Musicological Annotations |  |  |
-| Mono-to-Stereo through Parametric Stereo Generation |  |  |
-| From West to East: Who Can Understand the Music of the Others Better? |  |  |
-| On the Performance of Optical Music Recognition in the Absence of Specific Training Data |  |  |
-| Composer's Assistant: An Interactive Transformer for Multi-Track MIDI Infilling |  |  |
-| The FAV Corpus: An Audio Dataset of Favorite Pieces and Excerpts, with Formal Analyses and Music Theory Descriptors |  |  |
-| LyricWhiz: Robust Multilingual Lyrics Transcription by Whispering to ChatGPT |  |  |
-| Sounds Out of Place? Score Independent Detection of Conspicuous Mistake Regions in MIDI Piano Performances |  |  |
-| VampNet: Music Generation via Masked Acoustic Token Modeling |  |  |
-| Expert and Novice Evaluations of Piano Performances: Criteria for Computer-Aided Feedback |  |  |
-| Contrastive Learning for Cross-Modal Artist Retrieval |  |  |
-| Repetition-Structure Inference with Formal Prototypes |  |  |
-| Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors |  |  |
-| Text-to-Lyrics Generation with Image-based Semantics and Reduced Risk of Plagiarism |  |  |
+| BPS-Motif: A Dataset for Repeated Pattern Discovery of Polyphonic Symbolic Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| Weakly Supervised Multi-Pitch Estimation using Cross-Version Alignment | [![GitHub](https://img.shields.io/github/stars/groupmm/weakly_supervised_mpe)](https://github.com/groupmm/weakly_supervised_mpe) | :heavy_minus_sign: |
+| The Batik-Plays-Mozart Corpus: Linking Performance to Score to Musicological Annotations | [![GitHub](https://img.shields.io/github/stars/huispaty/batik_plays_mozart)](https://github.com/huispaty/batik_plays_mozart) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02399-b31b1b.svg)](https://arxiv.org/abs/2309.02399) |
+| Mono-to-Stereo through Parametric Stereo Generation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14647-b31b1b.svg)](https://arxiv.org/abs/2306.14647) |
+| From West to East: Who Can Understand the Music of the Others Better? | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/372468858_From_West_to_East_Who_can_understand_the_music_of_the_others_better) |
+| On the Performance of Optical Music Recognition in the Absence of Specific Training Data | :heavy_minus_sign: | :heavy_minus_sign: |
+| Composer's Assistant: An Interactive Transformer for Multi-Track MIDI Infilling | [![GitHub](https://img.shields.io/github/stars/m-malandro/composers-assistant-REAPER)](https://github.com/m-malandro/composers-assistant-REAPER) | [![arXiv](https://img.shields.io/badge/arXiv-2301.12525-b31b1b.svg)](https://arxiv.org/abs/2301.12525) |
+| The FAV Corpus: An Audio Dataset of Favorite Pieces and Excerpts, with Formal Analyses and Music Theory Descriptors | :heavy_minus_sign: | :heavy_minus_sign: |
+| LyricWhiz: Robust Multilingual Lyrics Transcription by Whispering to ChatGPT | [![GitHub](https://img.shields.io/github/stars/zhuole1025/LyricWhiz)](https://github.com/zhuole1025/LyricWhiz) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17103-b31b1b.svg)](https://arxiv.org/abs/2306.17103) |
+| Sounds Out of Place? Score Independent Detection of Conspicuous Mistake Regions in MIDI Piano Performances | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://sites.google.com/view/ismir2023-conspicuous-error) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://repositori.upf.edu/bitstream/handle/10230/58108/Morsi_ism_soun.pdf?sequence=1&isAllowed=y) |
+| VampNet: Music Generation via Masked Acoustic Token Modeling | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://hugo-does-things.notion.site/VampNet-Music-Generation-via-Masked-Acoustic-Token-Modeling-e37aabd0d5f1493aa42c5711d0764b33) <br /> [![GitHub](https://img.shields.io/github/stars/hugofloresgarcia/vampnet)](https://github.com/hugofloresgarcia/vampnet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.04686-b31b1b.svg)](https://arxiv.org/abs/2307.04686) |
+| Expert and Novice Evaluations of Piano Performances: Criteria for Computer-Aided Feedback | :heavy_minus_sign: | :heavy_minus_sign: |
+| Contrastive Learning for Cross-Modal Artist Retrieval | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.06556-b31b1b.svg)](https://arxiv.org/abs/2308.06556) |
+| Repetition-Structure Inference with Formal Prototypes | [![GitHub](https://img.shields.io/github/stars/DCMLab/form-repetition-ismir23)](https://github.com/DCMLab/form-repetition-ismir23) | :heavy_minus_sign: |
+| Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors | [![GitHub](https://img.shields.io/github/stars/pvankranenburg/ismir2023)](https://github.com/pvankranenburg/ismir2023) | :heavy_minus_sign: |
+| Text-to-Lyrics Generation with Image-based Semantics and Reduced Risk of Plagiarism | [![GitHub](https://img.shields.io/github/stars/KentoW/ISMIR2023)](https://github.com/KentoW/ISMIR2023) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
