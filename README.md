@@ -144,23 +144,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 2
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-|2-1| CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval| [Github Pages](https://microsoft.github.io/muzic/clamp/) [Github](https://github.com/microsoft/muzic/tree/main/clamp)| |
-|2-2| GENDER-CODED SOUND: ANALYSING THE GENDERING OF MUSIC IN TOY COMMERCIALS VIA MULTI-TASK LEARNING |[Github](https://github.com/marinelliluca/gender_coded_sound_ismir2023) ||
-|2-3| A dataset and Baselines for Measuring and Predicting the Music Piece Memorability| [Github](https://github.com/anusfoil/SymRep)||
-| 2-4 | Efficient Notation Assembly in Optical Music Recognition | - |  |
-| 2-5 | White Box Search over Audio Synthesizer Parameters | - |  |
-| 2-6 | Decoding drums, instrumentals, vocals, and mixed sources in music using human brain activity with fMRI | [Github](https://github.com/vkmcheung/neuromusic-decoding/) |  |
-| 2-7 | Dual Attention-based Multi-scale Feature Fusion Approach for Dynamic Music Emotion Recognition | [Dataset](https://ismir-2023.github.io/MER1101/) |  |
-| 2-8 | Automatic Piano Transcription with Hierarchical Frequency-Time Transformer | [Github](https://github.com/sony/hFT-Transformer) |  |
-| 2-9 | High-Resolution Violin Transcription using Weak Labels | [Github](https://github.com/MTG/violin-transcription/) |  |
-| 2-10 | Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls | [Demo](https://polyffusion.github.io/) [Github](https://github.com/aik2mlj/polyffusion) |  |
-| 2-11 | The Coordinated Corpus of Popular Musics (CoCoPops): A Meta-Dataset of Melodic and Harmonic Transcriptions | [Github](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops) |  |
-| 2-12 | Towards computational music analysis for music therapy | - |  |
-| 2-13 | Timbre Transfer using Image-to-Image Denoising Diffusion Implicit Models | [Github](https://github.com/lucacoma/DiffTransfer) [Demo](https://lucacoma.github.io/DiffTransfer/)|  |
-| 2-14 | Correlation of EEG responses reflects structural similarity of choruses in popular music | - |  |
-| 2-15 | Chromatic Chords in Theory and Practice | [Github](https://github.com/MarkGotham/When-in-Rome) [Book](https://viva.pressbooks.pub/openmusictheory/chapter/anthology-harmony/) |  |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-15-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| CLaMP: Contrastive Language-Music Pre-Training for Cross-Modal Symbolic Music Information Retrieval | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://microsoft.github.io/muzic/clamp/) <br /> [![GitHub](https://img.shields.io/github/stars/microsoft/muzic)](https://github.com/microsoft/muzic) | [![arXiv](https://img.shields.io/badge/arXiv-2304.11029-b31b1b.svg)](https://arxiv.org/abs/2304.11029) |
+| Gender-Coded Sound: Analysing the Gendering of Music in Toy Commercials via Multi-Task Learning | [![GitHub](https://img.shields.io/github/stars/marinelliluca/gender_coded_sound_ismir2023)](https://github.com/marinelliluca/gender_coded_sound_ismir2023) | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/372279840_Gender-Coded_Sound_Analysing_the_Gendering_of_Music_in_Toy_Commercials_via_Multi-Task_Learning) |
+| A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability | :heavy_minus_sign: | :heavy_minus_sign: |
+| Efficient Notation Assembly in Optical Music Recognition | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://repositori.upf.edu/bitstream/handle/10230/58186/Valero_ism_effi.pdf?sequence=1&isAllowed=y) |
+| White Box Search over Audio Synthesizer Parameters | :heavy_minus_sign: | :heavy_minus_sign: |
+| Decoding Drums, Instrumentals, Vocals, and Mixed Sources in Music using Human Brain Activity with fMRI | :heavy_minus_sign: | :heavy_minus_sign: |
+| Dual Attention-based Multi-Scale Feature Fusion Approach for Dynamic Music Emotion Recognition | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ismir-2023.github.io/MER1101/) | :heavy_minus_sign: |
+| Automatic Piano Transcription with Hierarchical Frequency-Time Transformer | [![GitHub](https://img.shields.io/github/stars/sony/hFT-Transformer)](https://github.com/sony/hFT-Transformer) | [![arXiv](https://img.shields.io/badge/arXiv-2307.04305-b31b1b.svg)](https://arxiv.org/abs/2307.04305) |
+| High-Resolution Violin Transcription using Weak Labels | [![GitHub](https://img.shields.io/github/stars/MTG/violin-transcription)](https://github.com/MTG/violin-transcription) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://repositori.upf.edu/bitstream/handle/10230/58121/Tamer_ism_high.pdf?sequence=1&isAllowed=y) |
+| Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://polyffusion.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/aik2mlj/polyffusion)](https://github.com/aik2mlj/polyffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10304-b31b1b.svg)](https://arxiv.org/abs/2307.10304) |
+| The Coordinated Corpus of Popular Musics (CoCoPops): A Meta-Dataset of Melodic and Harmonic Transcriptions | [![GitHub](https://img.shields.io/github/stars/Computational-Cognitive-Musicology-Lab/CoCoPops)](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops) | :heavy_minus_sign: |
+| Towards Computational Music Analysis for Music Therapy | :heavy_minus_sign: | :heavy_minus_sign: |
+| Timbre Transfer using Image-to-Image Denoising Diffusion Implicit Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lucacoma.github.io/DiffTransfer/) <br /> [![GitHub](https://img.shields.io/github/stars/lucacoma/DiffTransfer)](https://github.com/lucacoma/DiffTransfer) | [![arXiv](https://img.shields.io/badge/arXiv-2307.04586-b31b1b.svg)](https://arxiv.org/abs/2307.04586) |
+| Correlation of EEG Responses Reflects Structural Similarity of Choruses in Popular Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| Chromatic Chords in Theory and Practice | :heavy_minus_sign: | :heavy_minus_sign: |
+
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
