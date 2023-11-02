@@ -201,21 +201,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** |
 |-----------|:--------:|:---------:|
-| LP-MusicCaps: LLM-based Pseudo Music Captioning |  |  |
-| A Repetition-based Triplet Mining Approach for Music Segmentation |  |  |
-| Predicting Music Hierarchies with a Graph-based Neural Decoder |  |  |
-| Stabilizing Training with Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation with Weakly Aligned Targets |  |  |
-| Finding Tori: Self-Supervised Learning for Analyzing Korean Folk Song |  |  |
-| Singer Identity Representation Learning using Self-Supervised Techniques |  |  |
-| On the Effectiveness of Speech Self-Supervised Learning for Music |  |  |
-| Transformer-based Beat Tracking with Low-Resolution Encoder and High-Resolution Decoder |  |  |
-| Adding Descriptors to Melodies Improves Pattern Matching: A Study on Slovenian Folk Songs |  |  |
-| How Control and Transparency for Users Could Improve Artist Fairness in Music Recommender Systems |  |  |
-| Towards a New Interface for Music Listening: A User Experience Study on YouTube |  |  |
-| FiloBass: A Dataset and Corpus based Study of Jazz Basslines |  |  |
-| Comparing Texture in Piano Scores |  |  |
-| Introducing DiMCAT for Processing and Analyzing Notated Music on a Very Large Scale |  |  |
-| Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription with Tokenized Outputs |  |  |
+| LP-MusicCaps: LLM-based Pseudo Music Captioning | [![GitHub](https://img.shields.io/github/stars/seungheondoh/lp-music-caps)](https://github.com/seungheondoh/lp-music-caps) | [![arXiv](https://img.shields.io/badge/arXiv-2307.16372-b31b1b.svg)](https://arxiv.org/abs/2307.16372) |
+| A Repetition-based Triplet Mining Approach for Music Segmentation | :heavy_minus_sign: | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04202766) |
+| Predicting Music Hierarchies with a Graph-based Neural Decoder | [![GitHub](https://img.shields.io/github/stars/fosfrancesco/musicparser)](https://github.com/fosfrancesco/musicparser) | [![arXiv](https://img.shields.io/badge/arXiv-2306.16955-b31b1b.svg)](https://arxiv.org/abs/2306.16955) |
+| Stabilizing Training with Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation with Weakly Aligned Targets | [![GitHub](https://img.shields.io/github/stars/groupmm/stabilizing_sdtw)](https://github.com/groupmm/stabilizing_sdtw) | [![arXiv](https://img.shields.io/badge/arXiv-2308.05429-b31b1b.svg)](https://arxiv.org/abs/2308.05429) |
+| Finding Tori: Self-Supervised Learning for Analyzing Korean Folk Song | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://danbinaerinhan.github.io/korean-folksong-visualization/) <br /> [![GitHub](https://img.shields.io/github/stars/danbinaerinHan/finding-tori)](https://github.com/danbinaerinHan/finding-tori) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02249-b31b1b.svg)](https://arxiv.org/abs/2308.02249) |
+| Singer Identity Representation Learning using Self-Supervised Techniques | [![GitHub](https://img.shields.io/github/stars/SonyCSLParis/ssl-singer-identity)](https://github.com/SonyCSLParis/ssl-singer-identity) | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04186048) |
+| On the Effectiveness of Speech Self-Supervised Learning for Music | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.05161-b31b1b.svg)](https://arxiv.org/abs/2307.05161) |
+| Transformer-based Beat Tracking with Low-Resolution Encoder and High-Resolution Decoder | :heavy_minus_sign: | :heavy_minus_sign: |
+| Adding Descriptors to Melodies Improves Pattern Matching: A Study on Slovenian Folk Songs | :heavy_minus_sign: | :heavy_minus_sign: |
+| How Control and Transparency for Users Could Improve Artist Fairness in Music Recommender Systems | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://christinebauer.eu/publications/dinnissen2023_control/dinnissen2023_control.pdf) |
+| Towards a New Interface for Music Listening: A User Experience Study on YouTube | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.14718-b31b1b.svg)](https://arxiv.org/abs/2307.14718) |
+| FiloBass: A Dataset and Corpus based Study of Jazz Basslines | :heavy_minus_sign: | :heavy_minus_sign: |
+| Comparing Texture in Piano Scores | :heavy_minus_sign: | :heavy_minus_sign: |
+| Introducing DiMCAT for Processing and Analyzing Notated Music on a Very Large Scale | :heavy_minus_sign: | :heavy_minus_sign: |
+| Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription with Tokenized Outputs | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
