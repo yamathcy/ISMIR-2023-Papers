@@ -15,8 +15,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/yamathcy/ISMIR-2023-Papers)
 ![GitHub forks](https://img.shields.io/github/forks/yamathcy/ISMIR-2023-Papers)
 ![GitHub Repo stars](https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FINTERSPEECH-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
-
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyamathcy%2FISMIR-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
 <div style="float:left;">
   <img src="https://geps.dev/progress/100?successColor=006600" />
@@ -29,9 +28,11 @@ ISMIR 2023 Papers: A complete collection of influential and exciting research pa
 
 <p align="center">
     <a href="https://ismir2023.ismir.net/" target="_blank">
-        <img width="600" src="https://ismir2023.ismir.net/assets/img/logos/MILAN_complete_logo.png" alt="ISMIR 2023">
+        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ISMIR-2023-Papers@main/images/ISMIR2023-banner.jpg" alt="ISMIR 2023">
     </a>
 <p>
+
+![Total Papers](https://img.shields.io/badge/Total%20Papers-103-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-52%20(50.49%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-45%20(43.69%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -61,22 +62,22 @@ ISMIR 2023 Papers: A complete collection of influential and exciting research pa
     </tr>
     <tr>
         <td>CVPR</td>
-        <td><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
         <td>ICCV</td>
-        <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><i>Speech (SP)</i></td>
+      <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
     </tr>
 </table>
 
@@ -99,36 +100,45 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 <!-- > :exclamation: Final paper links will be added post-conference. -->
 
-<!-- <details open> -->
-<!-- <summary>List of session<a id="sections"></a></summary> -->
+<details open>
+<summary>List of sessions<a id="sections"></a></summary>
 
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
+- [Session 4](#session-4)
+- [Session 5](#session-5)
+- [Session 6](#session-6)
+- [Session 7](#session-7)
 
 </details>
 
-<a href="#sections">
+<!-- <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
+</a> -->
 
 ### Session 1
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-|1-1| Exploring the correspondence of melodic contour with gesture in raga alap singing | [Demo](https://dap-lab.github.io/audioGestureCorrespondence/) | |
-|1-2| TriAD: Capturing harmonics with 3D Convolutions| [GitHub](https://github.com/migperfer/TriAD-ISMIR2023) | | 
-|1-3| Data Collection in Music Generation Training Sets: A Critical Analysis| [GitHub](https://github.com/Sma1033/amgdatasetethics) | |
-|1-4| A Review of Validity and its Relationship to Music Information Research| [GitHub](https://github.com/boblsturm/mirvaliditytutorial) | |
-|1-5| Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts| [GitHub](https://github.com/GowriprasadMysore/Segmentation_Taniavartanam) | |
-|1-6| Transfer Learning and Bias Correction with Pre-trained Audio Embeddings| [GitHub](https://github.com/changhongw/audio-embedding-bias) | |
-|1-7| Collaborative Song Dataset (CoSoD): An annotated dataset of multi-artist collaborations in popular music| [GitHub](https://github.com/duguay-michele/CoSoD) || 
-|1-8| Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration| [GitHub](https://github.com/michelenewman/ISMIR23_supplemental_material) || 
-|1-9| Impact of time and note duration tokenizations on deep learning symbolic music modeling| [GitHub](https://github.com/Natooz/music-modeling-time-duration) ||
-|1-10| Musical Micro-Timing for Live Coding| [GitHub](https://github.com/MaxTheComputerer/sonicpi-metre) ||
-|1-11| A Few-shot Neural Approach for Layout Analysis of Music Score Image | [GitHub](https://github.com/fjcastellanos/FewShotLayoutAnalysisMusic) ||
-|1-12| TapTamDrum: A Dataset for Dualized Drum Patterns| [GitHub](https://github.com/taptamdrum/dataset) ||
-|1-13| Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar| [Github](https://github.com/iamtheband/martelloni_et_al_ismir2023) ||
-|1-14| IteraTTA: An interface for exploring both text prompts and audio priors in generating music with text-to-audio models| [Demo](https://iteratta.duckdns.org/) ||
-|1-15| Similarity evaluation of violin directivity patterns for musical instrument retrieval| - ||
-|1-16| Polyrhythmic modelling of non-isochronous and microtiming patterns|-||
+![Session Papers](https://img.shields.io/badge/Session%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-11-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://dap-lab.github.io/audioGestureCorrespondence/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://dap-lab.github.io/audioGestureCorrespondence/pdf/paper.pdf) |
+| TriAD: Capturing Harmonics with 3D Convolutions | [![GitHub](https://img.shields.io/github/stars/migperfer/TriAD-ISMIR2023)](https://github.com/migperfer/TriAD-ISMIR2023) | :heavy_minus_sign: |
+| Data Collection in Music Generation Training Sets: A Critical Analysis | [![GitHub](https://img.shields.io/github/stars/Sma1033/amgdatasetethics)](https://github.com/Sma1033/amgdatasetethics) | :heavy_minus_sign: |
+| A Review of Validity and its Relationship to Music Information Research | [![GitHub](https://img.shields.io/github/stars/boblsturm/mirvaliditytutorial)](https://github.com/boblsturm/mirvaliditytutorial) | [![arXiv](https://img.shields.io/badge/arXiv-2301.01578-b31b1b.svg)](https://arxiv.org/abs/2301.01578) |
+| Segmentation and Analysis of Taniavartanam in Carnatic Music Concerts | :heavy_minus_sign: | :heavy_minus_sign: |
+| Transfer Learning and Bias Correction with Pre-Trained Audio Embeddings | [![GitHub](https://img.shields.io/github/stars/changhongw/audio-embedding-bias)](https://github.com/changhongw/audio-embedding-bias) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10834-b31b1b.svg)](https://arxiv.org/abs/2307.10834) |
+| Collaborative Song Dataset (CoSoD): An Annotated Dataset of Multi-Artist Collaborations in Popular Music | [![GitHub](https://img.shields.io/github/stars/duguay-michele/CoSoD)](https://github.com/duguay-michele/CoSoD) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05588-b31b1b.svg)](https://arxiv.org/abs/2307.05588) |
+| Human-AI Music Creation: Understanding the Perceptions and Experiences of Music Creators for Ethical and Productive Collaboration | [![GitHub](https://img.shields.io/github/stars/michelenewman/ISMIR23_supplemental_material)](https://github.com/michelenewman/ISMIR23_supplemental_material) | :heavy_minus_sign: |
+| Impact of Time and Note Duration Tokenizations on Deep Learning Symbolic Music Modeling| [![GitHub](https://img.shields.io/github/stars/Natooz/music-modeling-time-duration)](https://github.com/Natooz/music-modeling-time-duration) | [![arXiv](https://img.shields.io/badge/arXiv-2310.08497-b31b1b.svg)](https://arxiv.org/abs/2310.08497) |
+| Musical Micro-Timing for Live Coding | [![GitHub](https://img.shields.io/github/stars/MaxTheComputerer/sonicpi-metre)](https://github.com/MaxTheComputerer/sonicpi-metre) | :heavy_minus_sign: |
+| A Few-Shot Neural Approach for Layout Analysis of Music Score Image | [![GitHub](https://img.shields.io/github/stars/fjcastellanos/FewShotLayoutAnalysisMusic)](https://github.com/fjcastellanos/FewShotLayoutAnalysisMusic) | :heavy_minus_sign: |
+| TapTamDrum: A Dataset for Dualized Drum Patterns | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://taptamdrum.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/taptamdrum/dataset)](https://github.com/taptamdrum/dataset) | :heavy_minus_sign: |
+| Real-Time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar | [![GitHub](https://img.shields.io/github/stars/iamtheband/martelloni_et_al_ismir2023)](https://github.com/iamtheband/martelloni_et_al_ismir2023) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07426-b31b1b.svg)](https://arxiv.org/abs/2307.07426) |
+| IteraTTA: An Interface for Exploring both Text Prompts and Audio Priors in Generating Music with Text-to-Audio Models | [![Demo](https://img.shields.io/badge/Demo-IteraTTA-FFD21F.svg)](https://iteratta.duckdns.org/) | [![arXiv](https://img.shields.io/badge/arXiv-2307.13005-b31b1b.svg)](https://arxiv.org/abs/2307.13005) |
+| Similarity Evaluation of Violin Directivity Patterns for Musical Instrument Retrieval | :heavy_minus_sign: | :heavy_minus_sign: |
+| Polyrhythmic Modelling of Non-Isochronous and Microtiming Patterns | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -136,97 +146,105 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 2
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-|2-1| CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval| [Github Pages](https://microsoft.github.io/muzic/clamp/) [Github](https://github.com/microsoft/muzic/tree/main/clamp)| |
-|2-2| GENDER-CODED SOUND: ANALYSING THE GENDERING OF MUSIC IN TOY COMMERCIALS VIA MULTI-TASK LEARNING |[Github](https://github.com/marinelliluca/gender_coded_sound_ismir2023) ||
-|2-3| A dataset and Baselines for Measuring and Predicting the Music Piece Memorability| [Github](https://github.com/anusfoil/SymRep)||
-| 2-4 | Efficient Notation Assembly in Optical Music Recognition | - |  |
-| 2-5 | White Box Search over Audio Synthesizer Parameters | - |  |
-| 2-6 | Decoding drums, instrumentals, vocals, and mixed sources in music using human brain activity with fMRI | [Github](https://github.com/vkmcheung/neuromusic-decoding/) |  |
-| 2-7 | Dual Attention-based Multi-scale Feature Fusion Approach for Dynamic Music Emotion Recognition | [Dataset](https://ismir-2023.github.io/MER1101/) |  |
-| 2-8 | Automatic Piano Transcription with Hierarchical Frequency-Time Transformer | [Github](https://github.com/sony/hFT-Transformer) |  |
-| 2-9 | High-Resolution Violin Transcription using Weak Labels | [Github](https://github.com/MTG/violin-transcription/) |  |
-| 2-10 | Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls | [Demo](https://polyffusion.github.io/) [Github](https://github.com/aik2mlj/polyffusion) |  |
-| 2-11 | The Coordinated Corpus of Popular Musics (CoCoPops): A Meta-Dataset of Melodic and Harmonic Transcriptions | [Github](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops) |  |
-| 2-12 | Towards computational music analysis for music therapy | - |  |
-| 2-13 | Timbre Transfer using Image-to-Image Denoising Diffusion Implicit Models | [Github](https://github.com/lucacoma/DiffTransfer) [Demo](https://lucacoma.github.io/DiffTransfer/)|  |
-| 2-14 | Correlation of EEG responses reflects structural similarity of choruses in popular music | - |  |
-| 2-15 | Chromatic Chords in Theory and Practice | [Github](https://github.com/MarkGotham/When-in-Rome) [Book](https://viva.pressbooks.pub/openmusictheory/chapter/anthology-harmony/) |  |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-15-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| CLaMP: Contrastive Language-Music Pre-Training for Cross-Modal Symbolic Music Information Retrieval | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://microsoft.github.io/muzic/clamp/) <br /> [![GitHub](https://img.shields.io/github/stars/microsoft/muzic)](https://github.com/microsoft/muzic) | [![arXiv](https://img.shields.io/badge/arXiv-2304.11029-b31b1b.svg)](https://arxiv.org/abs/2304.11029) |
+| Gender-Coded Sound: Analysing the Gendering of Music in Toy Commercials via Multi-Task Learning | [![GitHub](https://img.shields.io/github/stars/marinelliluca/gender_coded_sound_ismir2023)](https://github.com/marinelliluca/gender_coded_sound_ismir2023) | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/372279840_Gender-Coded_Sound_Analysing_the_Gendering_of_Music_in_Toy_Commercials_via_Multi-Task_Learning) |
+| A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability | :heavy_minus_sign: | :heavy_minus_sign: |
+| Efficient Notation Assembly in Optical Music Recognition | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://repositori.upf.edu/bitstream/handle/10230/58186/Valero_ism_effi.pdf?sequence=1&isAllowed=y) |
+| White Box Search over Audio Synthesizer Parameters | :heavy_minus_sign: | :heavy_minus_sign: |
+| Decoding Drums, Instrumentals, Vocals, and Mixed Sources in Music using Human Brain Activity with fMRI | :heavy_minus_sign: | :heavy_minus_sign: |
+| Dual Attention-based Multi-Scale Feature Fusion Approach for Dynamic Music Emotion Recognition | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ismir-2023.github.io/MER1101/) | :heavy_minus_sign: |
+| Automatic Piano Transcription with Hierarchical Frequency-Time Transformer | [![GitHub](https://img.shields.io/github/stars/sony/hFT-Transformer)](https://github.com/sony/hFT-Transformer) | [![arXiv](https://img.shields.io/badge/arXiv-2307.04305-b31b1b.svg)](https://arxiv.org/abs/2307.04305) |
+| High-Resolution Violin Transcription using Weak Labels | [![GitHub](https://img.shields.io/github/stars/MTG/violin-transcription)](https://github.com/MTG/violin-transcription) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://repositori.upf.edu/bitstream/handle/10230/58121/Tamer_ism_high.pdf?sequence=1&isAllowed=y) |
+| Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://polyffusion.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/aik2mlj/polyffusion)](https://github.com/aik2mlj/polyffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10304-b31b1b.svg)](https://arxiv.org/abs/2307.10304) |
+| The Coordinated Corpus of Popular Musics (CoCoPops): A Meta-Dataset of Melodic and Harmonic Transcriptions | [![GitHub](https://img.shields.io/github/stars/Computational-Cognitive-Musicology-Lab/CoCoPops)](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops) | :heavy_minus_sign: |
+| Towards Computational Music Analysis for Music Therapy | :heavy_minus_sign: | :heavy_minus_sign: |
+| Timbre Transfer using Image-to-Image Denoising Diffusion Implicit Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lucacoma.github.io/DiffTransfer/) <br /> [![GitHub](https://img.shields.io/github/stars/lucacoma/DiffTransfer)](https://github.com/lucacoma/DiffTransfer) | [![arXiv](https://img.shields.io/badge/arXiv-2307.04586-b31b1b.svg)](https://arxiv.org/abs/2307.04586) |
+| Correlation of EEG Responses Reflects Structural Similarity of Choruses in Popular Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| Chromatic Chords in Theory and Practice | :heavy_minus_sign: | :heavy_minus_sign: |
+
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
 ### Session 3
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 3-1 | BPS-Motif: A Dataset for Repeated Pattern Discovery of Polyphonic Symbolic Music |  |  |
-| 3-2 | Weakly Supervised Multi-Pitch Estimation Using Cross-Version Alignment |  |  |
-| 3-3 | The Batik-plays-Mozart Corpus: Linking Performance to Score to Musicological Annotations |  |  |
-| 3-4 | Mono-to-stereo through parametric stereo generation |  |  |
-| 3-5 | From West to East: Who can understand the music of the others better? |  |  |
-| 3-6 | On the Performance of Optical Music Recognition in the Absence of Specific Training Data |  |  |
-| 3-7 | Composer’s Assistant: An Interactive Transformer for Multi-Track MIDI Infilling |  |  |
-| 3-8 | The FAV Corpus: An audio dataset of favorite pieces and excerpts, with formal analyses and music theory descriptors |  |  |
-| 3-9 | LyricWhiz: Robust Multilingual Lyrics Transcription by Whispering to ChatGPT |  |  |
-| 3-10 | Sounds out of place? Score independent detection of conspicuous mistake regions in MIDI piano performances |  |  |
-| 3-11 | VampNet: Music Generation via Masked Acoustic Token Modeling |  |  |
-| 3-12 | Expert and Novice Evaluations of Piano Performances: Criteria for Computer-Aided Feedback |  |  |
-| 3-13 | Contrastive Learning for Cross-modal Artist Retrieval |  |  |
-| 3-14 | Repetition-Structure Inference with Formal Prototypes |  |  |
-| 3-15 | Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors |  |  |
-| 3-16 | Text-to-lyrics generation with image-based semantics and reduced risk of plagiarism |  |  |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-8-1D7FBF)
 
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| BPS-Motif: A Dataset for Repeated Pattern Discovery of Polyphonic Symbolic Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| Weakly Supervised Multi-Pitch Estimation using Cross-Version Alignment | [![GitHub](https://img.shields.io/github/stars/groupmm/weakly_supervised_mpe)](https://github.com/groupmm/weakly_supervised_mpe) | :heavy_minus_sign: |
+| The Batik-Plays-Mozart Corpus: Linking Performance to Score to Musicological Annotations | [![GitHub](https://img.shields.io/github/stars/huispaty/batik_plays_mozart)](https://github.com/huispaty/batik_plays_mozart) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02399-b31b1b.svg)](https://arxiv.org/abs/2309.02399) |
+| Mono-to-Stereo through Parametric Stereo Generation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14647-b31b1b.svg)](https://arxiv.org/abs/2306.14647) |
+| From West to East: Who Can Understand the Music of the Others Better? | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/372468858_From_West_to_East_Who_can_understand_the_music_of_the_others_better) |
+| On the Performance of Optical Music Recognition in the Absence of Specific Training Data | :heavy_minus_sign: | :heavy_minus_sign: |
+| Composer's Assistant: An Interactive Transformer for Multi-Track MIDI Infilling | [![GitHub](https://img.shields.io/github/stars/m-malandro/composers-assistant-REAPER)](https://github.com/m-malandro/composers-assistant-REAPER) | [![arXiv](https://img.shields.io/badge/arXiv-2301.12525-b31b1b.svg)](https://arxiv.org/abs/2301.12525) |
+| The FAV Corpus: An Audio Dataset of Favorite Pieces and Excerpts, with Formal Analyses and Music Theory Descriptors | :heavy_minus_sign: | :heavy_minus_sign: |
+| LyricWhiz: Robust Multilingual Lyrics Transcription by Whispering to ChatGPT | [![GitHub](https://img.shields.io/github/stars/zhuole1025/LyricWhiz)](https://github.com/zhuole1025/LyricWhiz) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17103-b31b1b.svg)](https://arxiv.org/abs/2306.17103) |
+| Sounds Out of Place? Score Independent Detection of Conspicuous Mistake Regions in MIDI Piano Performances | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://sites.google.com/view/ismir2023-conspicuous-error) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://repositori.upf.edu/bitstream/handle/10230/58108/Morsi_ism_soun.pdf?sequence=1&isAllowed=y) |
+| VampNet: Music Generation via Masked Acoustic Token Modeling | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://hugo-does-things.notion.site/VampNet-Music-Generation-via-Masked-Acoustic-Token-Modeling-e37aabd0d5f1493aa42c5711d0764b33) <br /> [![GitHub](https://img.shields.io/github/stars/hugofloresgarcia/vampnet)](https://github.com/hugofloresgarcia/vampnet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.04686-b31b1b.svg)](https://arxiv.org/abs/2307.04686) |
+| Expert and Novice Evaluations of Piano Performances: Criteria for Computer-Aided Feedback | :heavy_minus_sign: | :heavy_minus_sign: |
+| Contrastive Learning for Cross-Modal Artist Retrieval | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.06556-b31b1b.svg)](https://arxiv.org/abs/2308.06556) |
+| Repetition-Structure Inference with Formal Prototypes | [![GitHub](https://img.shields.io/github/stars/DCMLab/form-repetition-ismir23)](https://github.com/DCMLab/form-repetition-ismir23) | :heavy_minus_sign: |
+| Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors | [![GitHub](https://img.shields.io/github/stars/pvankranenburg/ismir2023)](https://github.com/pvankranenburg/ismir2023) | :heavy_minus_sign: |
+| Text-to-Lyrics Generation with Image-based Semantics and Reduced Risk of Plagiarism | [![GitHub](https://img.shields.io/github/stars/KentoW/ISMIR2023)](https://github.com/KentoW/ISMIR2023) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-
 ### Session 4
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 4-1 | LP-MusicCaps: LLM-Based Pseudo Music Captioning |  |  |
-| 4-2 | A Repetition-based Triplet Mining Approach for Music Segmentation |  |  |
-| 4-3 | Predicting Music Hierarchies with a Graph-Based Neural Decoder |  |  |
-| 4-4 | Stabilizing Training with Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation with Weakly Aligned Targets |  |  |
-| 4-5 | Finding Tori: Self-supervised Learning for Analyzing Korean Folk Song |  |  |
-| 4-6 | Singer Identity Representation Learning using Self-Supervised Techniques |  |  |
-| 4-7 | On the effectiveness of speech self-supervised learning for music |  |  |
-| 4-8 | Transformer-based beat tracking with low-resolution encoder and high-resolution decoder |  |  |
-| 4-9 | Adding Descriptors to Melodies Improves Pattern Matching: A Study on Slovenian Folk Songs |  |  |
-| 4-10 | How Control and Transparency for Users Could Improve Artist Fairness in Music Recommender Systems |  |  |
-| 4-11 | Towards a New Interface for Music Listening: A User Experience Study on YouTube |  |  |
-| 4-12 | FiloBass: A Dataset and Corpus Based Study of Jazz Basslines |  |  |
-| 4-13 | Comparing Texture in Piano Scores |  |  |
-| 4-14 | Introducing DiMCAT for processing and analyzing notated music on a very large scale |  |  |
-| 4-15 | Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription with Tokenized Outputs |  |  |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-15-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-9-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| LP-MusicCaps: LLM-based Pseudo Music Captioning | [![GitHub](https://img.shields.io/github/stars/seungheondoh/lp-music-caps)](https://github.com/seungheondoh/lp-music-caps) | [![arXiv](https://img.shields.io/badge/arXiv-2307.16372-b31b1b.svg)](https://arxiv.org/abs/2307.16372) |
+| A Repetition-based Triplet Mining Approach for Music Segmentation | :heavy_minus_sign: | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04202766) |
+| Predicting Music Hierarchies with a Graph-based Neural Decoder | [![GitHub](https://img.shields.io/github/stars/fosfrancesco/musicparser)](https://github.com/fosfrancesco/musicparser) | [![arXiv](https://img.shields.io/badge/arXiv-2306.16955-b31b1b.svg)](https://arxiv.org/abs/2306.16955) |
+| Stabilizing Training with Soft Dynamic Time Warping: A Case Study for Pitch Class Estimation with Weakly Aligned Targets | [![GitHub](https://img.shields.io/github/stars/groupmm/stabilizing_sdtw)](https://github.com/groupmm/stabilizing_sdtw) | [![arXiv](https://img.shields.io/badge/arXiv-2308.05429-b31b1b.svg)](https://arxiv.org/abs/2308.05429) |
+| Finding Tori: Self-Supervised Learning for Analyzing Korean Folk Song | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://danbinaerinhan.github.io/korean-folksong-visualization/) <br /> [![GitHub](https://img.shields.io/github/stars/danbinaerinHan/finding-tori)](https://github.com/danbinaerinHan/finding-tori) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02249-b31b1b.svg)](https://arxiv.org/abs/2308.02249) |
+| Singer Identity Representation Learning using Self-Supervised Techniques | [![GitHub](https://img.shields.io/github/stars/SonyCSLParis/ssl-singer-identity)](https://github.com/SonyCSLParis/ssl-singer-identity) | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04186048) |
+| On the Effectiveness of Speech Self-Supervised Learning for Music | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.05161-b31b1b.svg)](https://arxiv.org/abs/2307.05161) |
+| Transformer-based Beat Tracking with Low-Resolution Encoder and High-Resolution Decoder | :heavy_minus_sign: | :heavy_minus_sign: |
+| Adding Descriptors to Melodies Improves Pattern Matching: A Study on Slovenian Folk Songs | :heavy_minus_sign: | :heavy_minus_sign: |
+| How Control and Transparency for Users Could Improve Artist Fairness in Music Recommender Systems | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://christinebauer.eu/publications/dinnissen2023_control/dinnissen2023_control.pdf) |
+| Towards a New Interface for Music Listening: A User Experience Study on YouTube | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.14718-b31b1b.svg)](https://arxiv.org/abs/2307.14718) |
+| FiloBass: A Dataset and Corpus based Study of Jazz Basslines | :heavy_minus_sign: | :heavy_minus_sign: |
+| Comparing Texture in Piano Scores | :heavy_minus_sign: | :heavy_minus_sign: |
+| Introducing DiMCAT for Processing and Analyzing Notated Music on a Very Large Scale | :heavy_minus_sign: | :heavy_minus_sign: |
+| Sequence-to-Sequence Network Training Methods for Automatic Guitar Transcription with Tokenized Outputs | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
 ### Session 5
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 5-1 | PESTO: Pitch Estimation with Self-supervised Transposition-equivariant Objective |  |  |
-| 5-2 | The Games We Play: Exploring The Impact of ISMIR on Musicology |  |  |
-| 5-3 | Carnatic Singing Voice Separation Using Cold Diffusion on Training Data with Bleeding |  |  |
-| 5-4 | Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights from a User Survey |  |  |
-| 5-5 | Towards Building a Phylogeny of Gregorian Chant Melodies |  |  |
-| 5-6 | Audio Embeddings as Teachers for Music Classification |  |  |
-| 5-7 | ScorePerformer: Expressive Piano Performance Rendering with Fine-Grained Control |  |  |
-| 5-8 | Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features |  |  |
-| 5-9 | Semi-Automated Music Catalog Curation Using Audio and Metadata |  |  |
-| 5-10 | Crowd’s Performance on Temporal Activity Detection of Musical Instruments in Polyphonic Music |  |  |
-| 5-11 | MoisesDB: A Dataset For Source Separation Beyond 4 Stems |  |  |
-| 5-12 | Music as flow: a formal representation of hierarchical processes in music |  |  |
-| 5-13 | Online Symbolic Music Alignment with Offline Reinforcement Learning |  |  |
-| 5-14 | InverSinthII: Sound matching via self-supervised synthesizer-proxy and inference-time finetuning |  |  |
-| 5-15 | A Semi-Supervised Deep Learning Approach to Dataset Collection for Query-by-Humming Task |  |  |
-| 5-16 | Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction |  |  |
+
+![Session Papers](https://img.shields.io/badge/Session%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| PESTO: Pitch Estimation with Self-Supervised Transposition-Equivariant Objective | [![GitHub](https://img.shields.io/github/stars/SonyCSLParis/pesto)](https://github.com/SonyCSLParis/pesto) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02265-b31b1b.svg)](https://arxiv.org/abs/2309.02265) |
+| The Games we Play: Exploring the Impact of ISMIR on Musicology | :heavy_minus_sign: | :heavy_minus_sign: |
+| Carnatic Singing Voice Separation using Cold Diffusion on Training Data with Bleeding | [![GitHub](https://img.shields.io/github/stars/MTG/carnatic-separation-ismir23)](https://github.com/MTG/carnatic-separation-ismir23) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://repositori.upf.edu/bitstream/handle/10230/58188/Plaja_ism_carn.pdf?sequence=1&isAllowed=y) |
+| Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights from a User Survey | :heavy_minus_sign: | :heavy_minus_sign: |
+| Towards Building a Phylogeny of Gregorian Chant Melodies | :heavy_minus_sign: | :heavy_minus_sign: |
+| Audio Embeddings as Teachers for Music Classification | [![GitHub](https://img.shields.io/github/stars/suncerock/EAsT-music-classification)](https://github.com/suncerock/EAsT-music-classification) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17424-b31b1b.svg)](https://arxiv.org/abs/2306.17424) |
+| ScorePerformer: Expressive Piano Performance Rendering with Fine-Grained Control | :heavy_minus_sign: | :heavy_minus_sign: |
+| Roman Numeral Analysis with Graph Neural Networks: Onset-Wise Predictions from Note-Wise Features | [![GitHub](https://img.shields.io/github/stars/manoskary/chordgnn)](https://github.com/manoskary/chordgnn) | [![arXiv](https://img.shields.io/badge/arXiv-2307.03544-b31b1b.svg)](https://arxiv.org/abs/2307.03544) |
+| Semi-Automated Music Catalog Curation using Audio and Metadata | :heavy_minus_sign: | :heavy_minus_sign: |
+| Crowd's Performance on Temporal Activity Detection of Musical Instruments in Polyphonic Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| MoisesDB: A Dataset for Source Separation Beyond 4 Stems | [![GitHub](https://img.shields.io/github/stars/moises-ai/moises-db)](https://github.com/moises-ai/moises-db) | [![arXiv](https://img.shields.io/badge/arXiv-2307.15913-b31b1b.svg)](https://arxiv.org/abs/2307.15913) |
+| Music as Flow: A Formal Representation of Hierarchical Processes in Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| Online Symbolic Music Alignment with Offline Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| InverSinthII: Sound Matching via Self-Supervised Synthesizer-Proxy and Inference-Time Finetuning | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Semi-Supervised Deep Learning Approach to Dataset Collection for Query-by-Humming Task | [![GitHub](https://img.shields.io/github/stars/amanteur/CHAD)](https://github.com/amanteur/CHAD) | :heavy_minus_sign: |
+| Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction | [![GitHub](https://img.shields.io/github/stars/SmoothKen/KKNet)](https://github.com/SmoothKen/KKNet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02723-b31b1b.svg)](https://arxiv.org/abs/2308.02723) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -234,23 +252,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 6
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 6-1 | Singing voice synthesis using differentiable LPC and glottalflow inspired wavetables |  |  |
-| 6-2 | Harmonic Analysis with Neural Semi-CRF |  |  |
-| 6-3 | A Dataset and Baseline for Automated Assessment of Timbre Quality in Trumpet Sound |  |  |
-| 6-4 | Visual Overviews for Sheet Music Structure |  |  |
-| 6-5 | Passage Summarization with recurrent models for Audio – Sheet Music Retrieval |  |  |
-| 6-6 | Predicting performance difficulty from piano sheet music images |  |  |
-| 6-7 | Self-Refining of Pseudo Labels for Music Source Separation with Noisy Labeled Data |  |  |
-| 6-8 | Quantifying the Ease of Playing Song Chords on the Guitar |  |  |
-| 6-9 | FlexDTW: Dynamic Time Warping With Flexible Boundary Conditions |  |  |
-| 6-10 | Modeling Bends in Popular Music Guitar Tablatures |  |  |
-| 6-11 | Self-Similarity-Based and Novelty-based loss for music structure analysis |  |  |
-| 6-12 | Modeling Harmonic Similarity for Jazz Using Cooccurrence Vectors and the Membrane Area |  |  |
-| 6-13 | SingStyle111: A Multilingual Singing Dataset With Style Transfer |  |  |
-| 6-14 | A Computational Evaluation Framework for Singable Lyric Translation |  |  |
-| 6-15 | Chorus-Playlist: Exploring the Impact of Listening to Only Choruses in a Playlist |  |  |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-15-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-9-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| Singing Voice Synthesis using Differentiable LPC and Glottalflow Inspired Wavetables | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yoyololicon.github.io/golf-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/yoyololicon/golf)](https://github.com/yoyololicon/golf) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17252-b31b1b.svg)](https://arxiv.org/abs/2306.17252) |
+| Harmonic Analysis with Neural Semi-CRF | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Dataset and Baseline for Automated Assessment of Timbre Quality in Trumpet Sound | [![GitHub](https://img.shields.io/github/stars/PNinad/ISMIR2023)](https://github.com/PNinad/ISMIR2023) <br /> [![Dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.8132780.svg)](https://doi.org/10.5281/zenodo.8132780) | :heavy_minus_sign: |
+| Visual Overviews for Sheet Music Structure | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.06140-b31b1b.svg)](https://arxiv.org/abs/2308.06140) |
+| Passage Summarization with Recurrent Models for Audio – Sheet Music Retrieval | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.12111-b31b1b.svg)](https://arxiv.org/abs/2309.12111) |
+| Predicting Performance Difficulty from Piano Sheet Music Images | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.16287-b31b1b.svg)](https://arxiv.org/abs/2309.16287) |
+| Self-Refining of Pseudo Labels for Music Source Separation with Noisy Labeled Data | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.12576-b31b1b.svg)](https://arxiv.org/abs/2307.12576) |
+| Quantifying the Ease of Playing Song Chords on the Guitar | :heavy_minus_sign: | :heavy_minus_sign: |
+| FlexDTW: Dynamic Time Warping with Flexible Boundary Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
+| Modeling Bends in Popular Music Guitar Tablatures | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.12307-b31b1b.svg)](https://arxiv.org/abs/2308.12307) |
+| Self-Similarity-based and Novelty-based Loss for Music Structure Analysis | [![GitHub](https://img.shields.io/github/stars/geoffroypeeters/ssmnet_ISMIR2023)](https://github.com/geoffroypeeters/ssmnet_ISMIR2023) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02243-b31b1b.svg)](https://arxiv.org/abs/2309.02243) |
+| Modeling Harmonic Similarity for Jazz using Cooccurrence Vectors and the Membrane Area | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/90562/Bunks%20Modeling%20Harmonic%20Similarity%20for%20Jazz%20Using%20Co-occurrence%20Vectors%20and%20the%20Membrane%20Area%202023%20Accepted.pdf?sequence=2&isAllowed=n) |
+| SingStyle111: A Multilingual Singing Dataset with Style Transfer | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Computational Evaluation Framework for Singable Lyric Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.13715-b31b1b.svg)](https://arxiv.org/abs/2308.13715) |
+| Chorus-Playlist: Exploring the Impact of Listening to Only Choruses in a Playlist | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -258,25 +278,28 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 7
 
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 7-1 | Supporting musicological investigations with information retrieval tools: an iterative approach to data collection |  |  |
-| 7-2 | Optimizing Feature Extraction for Symbolic Music |  |  |
-| 7-3 | Exploring Sampling Techniques for Generating Melodies with a Transformer Language Model |  |  |
-| 7-4 | Measuring the Eurovision Song Contest: A Living Dataset for Real-World MIR |  |  |
-| 7-5 | Efficient Supervised Training of Audio Transformers for Music Representation Learning |  |  |
-| 7-6 | A Cross-Version Approach to Audio Representation Learning for Orchestral Music |  |  |
-| 7-7 | Music source separation with MLP mixing of time, frequency, and channel |  |  |
-| 7-8 | Symbolic Music Representations for Classification Tasks: A Systematic Evaluation |  |  |
-| 7-9 | The Music Meta Ontology: a flexible semantic model for the interoperability of music metadata |  |  |
-| 7-10 | Polar Manhattan Displacement: measuring tonal distances between chords based on intervallic content |  |  |
+![Session Papers](https://img.shields.io/badge/Session%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| Supporting Musicological Investigations with Information Retrieval Tools: An Iterative Approach to Data Collection | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://research.gold.ac.uk/id/eprint/34165/1/BitH_ISMIR_2023-camera-ready.pdf) |
+| Optimizing Feature Extraction for Symbolic Music | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://musif.didone.eu/) <br /> [![GitHub](https://img.shields.io/github/stars/DIDONEproject/music_symbolic_features)](https://github.com/DIDONEproject/music_symbolic_features) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05107-b31b1b.svg)](https://arxiv.org/abs/2307.05107) |
+| Exploring Sampling Techniques for Generating Melodies with a Transformer Language Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09454-b31b1b.svg)](https://arxiv.org/abs/2308.09454) |
+| Measuring the Eurovision Song Contest: A Living Dataset for Real-World MIR | :heavy_minus_sign: | :heavy_minus_sign: |
+| Efficient Supervised Training of Audio Transformers for Music Representation Learning | [![GitHub](https://img.shields.io/github/stars/palonso/MAEST)](https://github.com/palonso/MAEST) | [![arXiv](https://img.shields.io/badge/arXiv-2309.16418-b31b1b.svg)](https://arxiv.org/abs/2309.16418) |
+| A Cross-Version Approach to Audio Representation Learning for Orchestral Music | [![GitHub](https://img.shields.io/github/stars/groupmm/cross_version_learning)](https://github.com/groupmm/cross_version_learning) | :heavy_minus_sign: |
+| Music Source Separation with MLP Mixing of Time, Frequency, and Channel | :heavy_minus_sign: | :heavy_minus_sign: |
+| Symbolic Music Representations for Classification Tasks: A Systematic Evaluation | [![GitHub](https://img.shields.io/github/stars/anusfoil/SymRep)](https://github.com/anusfoil/SymRep) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02567-b31b1b.svg)](https://arxiv.org/abs/2309.02567) |
+| The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata | :heavy_minus_sign: | :heavy_minus_sign: |
+| Polar Manhattan Displacement: Measuring Tonal Distances between Chords based on Intervallic Content | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/89900/Pauwels%20Polar%20Manhattan%20Displacement%3a%20measuring%20tonal%20distances%20between%20chords%20based%20on%20intervallic%20content%202023%20Accepted.pdf?sequence=2&isAllowed=y) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
 ### Late-Breaking Demo
-WIP
+
+> Will soon be added
 
 ---
 
