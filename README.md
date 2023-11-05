@@ -110,6 +110,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 - [Session 5](#session-5)
 - [Session 6](#session-6)
 - [Session 7](#session-7)
+- [Late-Breaking Demo](#late-breaking-demo)
 
 </details>
 
@@ -299,7 +300,51 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Late-Breaking Demo
 
-> Will soon be added
+![Session Papers](https://img.shields.io/badge/Session%20Papers-41-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF)
+
+| **Title** | **Repo** | **Paper** |
+|-----------|:--------:|:---------:|
+| [Virtuoso Strings: A Dataset of String Ensemble Recordings and Onset Annotations for Timing Analysis](https://ismir2023program.ismir.net/lbd_312.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1FrjpqyGu4Wl3Oj5WsxA6_1fkmVqRjrEu/preview) |
+| [Music Scope Pad](https://ismir2023program.ismir.net/lbd_315.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1m8FshdzWL7Enl8ASaVDxms__LAlWbypR/preview) |
+| [The Chordinator: Chord Progression Modeling and Generation using Transformers](https://ismir2023program.ismir.net/lbd_316.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/14xEoj_bGwcHCBlzX0zhZpmWIz9y2v816/preview) |
+| [Cosine Contours: A Case Study with Melodies from Irish Traditional Dance Music](https://ismir2023program.ismir.net/lbd_318.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1PBHtPvmTiGQjxySUe0ZDa-4IoWvNANLI/preview) |
+| [AutoOsu: Audio-Aware Action Generation for Rhythm Games](https://ismir2023program.ismir.net/lbd_319.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1zdgVPPRPBEueRfVDUl5yBUWrh_eWAJ3O/preview) |
+| [Can MusicGen Create Training Data for MIR Tasks?](https://ismir2023program.ismir.net/lbd_320.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/16LUDN42VsaUa1Nhp106Gbagpxk4CduC9/preview) |
+| [Automatic Production of Acoustic Piano Transcription Data](https://ismir2023program.ismir.net/lbd_321.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/15_Fnl0FibQ6Jp8XvHCJc8fTbZYl4Btf9/preview) |
+| [MemoVision: A Tool for Feature Selection and Visualization of Performance Data](https://ismir2023program.ismir.net/lbd_322.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/10a1fbxBS_fTCGeGQYXX2az_1UQT1pTuf/preview) |
+| [The Hi-Audio Online Platform for Distributed Music Crowdsourcing Database Collection](https://ismir2023program.ismir.net/lbd_323.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1GgMsbMs1AbakAg4SP47OsszU09hsPQv0/preview) |
+| [On the use of Synthesized Datasets and Transformer Adaptors for Musical Instrument Recognition](https://ismir2023program.ismir.net/lbd_324.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1MBtS7S8wMRgL7aLE_0ySwCaSvaBVO_cF/preview) |
+| [What Can Go Wrong When Conducting Beat Tracking Experiments](https://ismir2023program.ismir.net/lbd_325.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/16H89T7zTrc8HdLRG1SbHlZ7o6_Tx_IqN/preview) |
+| [Bridging Audio and Symbolic Piano Data through a Web-based Annotation Interface](https://ismir2023program.ismir.net/lbd_326.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1mGMsClAjyqaM0eExnE0rfVan2vfhG3kK/preview) |
+| [Towards Differentiable Piano Synthesis based on Physical Modeling](https://ismir2023program.ismir.net/lbd_327.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1YVe1LUEwdjoSbZ3RUQBXCQEUu1mPxeND/preview) |
+| [DJ StructFreak: Automatic DJ System Built with Music Structure Embeddings](https://ismir2023program.ismir.net/lbd_328.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1fbwMeFUp2c8lTTsEmsJxhSkp3o5otijk/preview) |
+| [Generating Folk-Like Music in Abc-Notation with Masked Language Models](https://ismir2023program.ismir.net/lbd_329.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/12pm_LN6s5t85cWbD_iCZTtqk0R3C1NoN/preview) |
+| [AQUATK: An Audio Quality Assessment Toolkit](https://ismir2023program.ismir.net/lbd_330.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1ArXSEip-EwYcaKsvZkm_MYaJAtmTU_Ox/preview) |
+| [Encoding Performance Data in MEI with the Automatic Music Performance Analysis and Comparison Toolkit (AMPACT)](https://ismir2023program.ismir.net/lbd_331.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1Rqn9ueBnKlplJVahEh2y_5zz6RtVxBD_/preview) |
+| [Retrieval Augmented Generation of Symbolic Music with LLMs](https://ismir2023program.ismir.net/lbd_332.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1Ch28jptrc8pnYnB4nipgMzsxjPtkpZRz/preview) |
+| [The Biased Journey of MSD_AUDIO.ZIP](https://ismir2023program.ismir.net/lbd_334.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1sR1AkQMj2P8E551qpZWPlZhkukPCZbhX/preview) |
+| [Fmak: A Dataset of Key and Mode Annotations for the Free Music Archive – Extended Abstract](https://ismir2023program.ismir.net/lbd_335.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1JGpo5YN93KOsxebPBrD_z4weScslRpE6/preview) |
+| [Orchestral Texture Classification with Convolution](https://ismir2023program.ismir.net/lbd_336.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1J2XFSBWqJubpOiZkdSy-qgt8zmcszu1p/preview) |
+| [Beat-Aligned Spectrogram-to-Sequence Generation of Rhythm-Game Charts](https://ismir2023program.ismir.net/lbd_337.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1wBsPrqQRMOPATngJPbBGyNFGtG0UeWMP/preview) |
+| [Total Variation in Popular Rap Vocals from 2009-2023: Extension of the Analysis by Georgieva, Ripollés & Mcfee](https://ismir2023program.ismir.net/lbd_338.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1IpGW0WOOE-Hz_32j2zDXku4-e2ipavoT/preview) |
+| [Towards Automated Estimation of Values from Song Lyrics: A Data Collection Protocol](https://ismir2023program.ismir.net/lbd_339.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1xCIVdJ8bu3WBWNU0rL3NuCGG-JJ7yjvA/preview) |
+| [Track Role Prediction of Single-Instrumental Sequences](https://ismir2023program.ismir.net/lbd_341.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1EjIDSv-dVRUIOTAq_56eMFo75VDhHKiK/preview) |
+| [Demo of a Smart Musical Instrument-based Real Time Pattern Detection System](https://ismir2023program.ismir.net/lbd_342.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1Zth4D96_1gIV4NmR6V9nqHq1UygqDulZ/preview) |
+| [JamALT: A Formatting-Aware Lyrics Transcription Benchmark](https://ismir2023program.ismir.net/lbd_343.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1Bc7fG0MrPsnpGiGxW5nXNZVqOVMYwgsq/preview) |
+| [STraDa: A Singer Traits Dataset](https://ismir2023program.ismir.net/lbd_344.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1IGbmPeJlfENKWa9giJemxpmk4eU6r_MH/preview) |
+| [Interpretable Modular Representation Learning for Full-Band Accompaniment Arrangement](https://ismir2023program.ismir.net/lbd_345.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1AsH1nokCxHdh455NdNBC6XPg5AeuKxhj/preview) |
+| [Improving Embeddings in Harmony Transformer](https://ismir2023program.ismir.net/lbd_346.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1-dAeViSpdzK3TqFylh4EflOL3ep524HA/preview) |
+| [Singable and Controllable Neural Lyric Translation: A Late-Breaking Showcase](https://ismir2023program.ismir.net/lbd_347.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1dGJ8XTzTxFIPuJDkxJwJ0jdmko5SjSqG/preview) |
+| [A Noise Augmentation Pipeline for Realistic Query-by-Example Simulation](https://ismir2023program.ismir.net/lbd_348.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1uSa1o0pdPGS9IVLqG8C1GbmWl0uugC2e/preview) |
+| [LARS: An Open-Source VST3 Plugin for Deep Drums Demixing with Pretrained Models](https://ismir2023program.ismir.net/lbd_349.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1mvutl-trgN06__8uloCCeq8nVmdgCJl-/preview) |
+| [Music Visualization using Chironomie](https://ismir2023program.ismir.net/lbd_350.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1d81e1FNuA4KQ101tmfRZgv_uzcntvnu7/preview) |
+| [Automatic Transcription of Multi-Instrumental Songs: Integrating Demixing, Harmonic Dilated Convolution, and Joint Beat Tracking](https://ismir2023program.ismir.net/lbd_351.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1BtsicT43bP7wFyHIyYIXGV1iK0wbNG0l/preview) |
+| [Mel-Band RoFormer for Music Source Separation](https://ismir2023program.ismir.net/lbd_353.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1SeS_P8YnbwbwLM3uWFeSHLMwNcZJ_avA/preview) |
+| [THE VocalNotes DATASET](https://ismir2023program.ismir.net/lbd_354.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1VIcWtjUY0HM94ssTCaZLeAeUCjkH7zUO/preview) |
+| [From Taps to Drums: Audio Percussion Style Transfer](https://ismir2023program.ismir.net/lbd_355.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1hzKEZD6DP-WUyWbY6J2PV7_SIc3kZQGb/preview) |
+| [JAMMIN-GPT: Text-based Improvisation using Llms in Ableton Live](https://ismir2023program.ismir.net/lbd_356.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/14xCaG-5JkcBn4a-WUt3eOkjIZwOKRUoZ/preview) |
+| [Visual Guitar Tab Comparison](https://ismir2023program.ismir.net/lbd_357.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1KvFlXGEmMjySR_h3lmAz0CDK3thHS3PP/preview) |
+| [Optimizing the Mridangam Stroke Transcription Pipeline: Addressing Key Challenges](https://ismir2023program.ismir.net/lbd_358.html) |  | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://drive.google.com/file/d/1DhlhRTFYW7AARv3GxmO1J0JZudv3sVa-/preview) |
 
 ---
 
