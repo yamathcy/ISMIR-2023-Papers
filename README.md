@@ -32,7 +32,7 @@ ISMIR 2023 Papers: A complete collection of influential and exciting research pa
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-103-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-52%20(50.49%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-53%20(51.46%25)%20*-1D7FBF)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-144-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-54%20(37.50%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-66%20(45.83%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -300,7 +300,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Late-Breaking Demo
 
-![Session Papers](https://img.shields.io/badge/Session%20Papers-41-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF)
+![Session Papers](https://img.shields.io/badge/Session%20Papers-41-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-13-1D7FBF)
 
 | **Title** | **Repo** | **Paper** |
 |-----------|:--------:|:---------:|
