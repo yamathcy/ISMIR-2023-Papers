@@ -96,6 +96,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ---
 
+## [Tutorials](https://ismir2023.ismir.net/tutorials/)
+
+| **Title** | **Material** |
+|--------|:---------:|
+|[Analysing Physiological Data Collected During Music Listening: An Introduction](https://ismir2023.ismir.net/tutorials/#1-analysing-physiological-data-collected-during-music-listening-an-introduction)|[![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://laurabishop.github.io/MusicDiscoveryPupil/)|
+|[Introduction to Differentiable Audio Synthesizer Programming](https://ismir2023.ismir.net/tutorials/#2-introduction-to-differentiable-audio-synthesizer-programming)|[![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://intro2ddsp.github.io/)|
+|[Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models](https://ismir2023.ismir.net/tutorials/#3-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models)|[![Google Slide](https://img.shields.io/badge/Google-Slide-FFD21F.svg)](https://docs.google.com/presentation/d/1AB27cUQzXaKbZlh3xtOCTWHR-PdWWXrF8K9xROFoNvk/edit?usp=sharing)[![Google Slide](https://img.shields.io/badge/Google-Slide-FFD21F.svg)](https://docs.google.com/presentation/d/1qPPOfn8YDNIvpnGZFvx8UVYLuA8iXiHKK8OJgq7RSiM/edit?usp=sharing)|
+|[Computer-Assisted Music-Making Systems: Taxonomy, Review, and Coding](https://ismir2023.ismir.net/tutorials/#4-computer-assisted-music-making-systems-taxonomy-review-and-coding)|:heavy_minus_sign:|
+|[Learning with Music Signals: Technology Meets Education](https://ismir2023.ismir.net/tutorials/#5-learning-with-music-signals-technology-meets-education)|:heavy_minus_sign:|
+|[Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing](https://ismir2023.ismir.net/tutorials/#6-kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing)|[![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.kymat.io/ismir23-tutorial/intro.html)|
+---
+
 ## [Papers](https://ismir2023.ismir.net/)
 
 <!-- > :exclamation: Final paper links will be added post-conference. -->
