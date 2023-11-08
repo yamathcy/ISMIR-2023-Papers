@@ -32,7 +32,7 @@ ISMIR 2023 Papers: A complete collection of influential and exciting research pa
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-144-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-54%20(37.50%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-66%20(45.83%25)%20*-1D7FBF)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-144-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-55%20(38.19%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-67%20(46.52%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -291,7 +291,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Session 7
 
-![Session Papers](https://img.shields.io/badge/Session%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF)
+![Session Papers](https://img.shields.io/badge/Session%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF)
 
 | **Title** | **Repo** | **Paper** |
 |-----------|:--------:|:---------:|
@@ -303,7 +303,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | [A Cross-Version Approach to Audio Representation Learning for Orchestral Music](https://ismir2023program.ismir.net/poster_79.html) | [![GitHub](https://img.shields.io/github/stars/groupmm/cross_version_learning)](https://github.com/groupmm/cross_version_learning) | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://archives.ismir.net/ismir2023/paper/000099.pdf) |
 | [Music Source Separation with MLP Mixing of Time, Frequency, and Channel](https://ismir2023program.ismir.net/poster_278.html) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://archives.ismir.net/ismir2023/paper/000100.pdf) |
 | [Symbolic Music Representations for Classification Tasks: A Systematic Evaluation](https://ismir2023program.ismir.net/poster_54.html) | [![GitHub](https://img.shields.io/github/stars/anusfoil/SymRep)](https://github.com/anusfoil/SymRep) | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://archives.ismir.net/ismir2023/paper/000101.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.02567-b31b1b.svg)](https://arxiv.org/abs/2309.02567) |
-| [The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata](https://ismir2023program.ismir.net/poster_283.html) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://archives.ismir.net/ismir2023/paper/000102.pdf) |
+| [The Music Meta Ontology: A Flexible Semantic Model for the Interoperability of Music Metadata](https://ismir2023program.ismir.net/poster_283.html) | [![GitHub](https://img.shields.io/github/stars/polifonia-project/music-meta-ontology)](https://github.com/polifonia-project/music-meta-ontology) | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://archives.ismir.net/ismir2023/paper/000102.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2311.03942-b31b1b.svg)](https://arxiv.org/abs/2311.03942) |
 | [Polar Manhattan Displacement: Measuring Tonal Distances between Chords based on Intervallic Content](https://ismir2023program.ismir.net/poster_294.html) | :heavy_minus_sign: | [![archives.ismir](https://img.shields.io/badge/pdf-ismir-2E6DA4.svg)](https://archives.ismir.net/ismir2023/paper/000103.pdf) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/89900/Pauwels%20Polar%20Manhattan%20Displacement%3a%20measuring%20tonal%20distances%20between%20chords%20based%20on%20intervallic%20content%202023%20Accepted.pdf?sequence=2&isAllowed=y) |
 
 <a href="#sections">
